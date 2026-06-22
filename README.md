@@ -68,7 +68,7 @@
 ## ⚡ Fun Facts
 
 💡 "I love turning crazy ideas into code that actually works"  <br>
-🎮 🎬 Netflix | 🎧 Music   <br>
+🎬 Netflix | 🎧 Music   <br>
 🚀 "Building my future one project at a time"   <br>
 🌍 "Dreaming of creating impactful software in the future"  
 
@@ -76,7 +76,7 @@
 
 ## 📫 Connect With Me
 
-🌐 Portfolio: https://portfolio-qasimali.vercel.app  
+🌐 Portfolio → [https://portfolio-qasimali.vercel.app](https://portfolio-qasimali.vercel.app)
 
 <p align="center">
   <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
