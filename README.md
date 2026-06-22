@@ -18,6 +18,15 @@
   <img src="https://skillicons.dev/icons?i=C,C++,html,css,js,react,nodejs,git,github,vscode,figma" />
 </p>
 
+
+## 📌 Projects
+
+- 🌦️ Weather App (API based)
+- 🧮 GitHUb profile Finder
+- ✅ Todo App (Local storage)
+- 🌐 Portfolio Website
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -28,17 +37,27 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QasimAli13&layout=compact&theme=tokyonight" />
 </p>
 
-## 📌 Projects
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QasimAli13&theme=tokyonight" />
+</p>
 
-- 🌦️ Weather App (API based)
-- 🧮 GitHUb profile Finder
-- ✅ Todo App (Local storage)
-- 🌐 Portfolio Website
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=QasimAli13&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-## 📫 Connect with me
+## ⚡ Fun Facts
+
+💡 "I love turning crazy ideas into code that works!"
+🎮 🎬 Netflix | 🎧 Music 
+🚀 "Building my future one project at a time"
+🌍 "Dreaming of starting my own tech company — QubeSoft"
+
+## 📫 Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/qasimali11"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:qa4451226@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/QasimAli13"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://instagram.com/QasimAli13"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 </p>
