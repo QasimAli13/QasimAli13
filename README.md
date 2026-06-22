@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Qasim ALi</h1>
+<h1 align="center">Hi 👋, I'm Qasim Ali</h1>
 <p>Software Engineering Student | Web Dev | Building cool things on the web</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Software+Engineering+Student;Frontend+Web+Developer;Driven+by+Continuous+Learning">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&center=true&vCenter=true&width=500&height=50&lines=Software+Engineering+Student;Frontend+Web+Developer;Driven+by+Continuous+Learning&gradient=true&color=FF416C&gradientColor=9B51E0">
 </p>
 
 ## 🚀 About Me
@@ -12,14 +12,20 @@
 - 🎯 Goal: Become a professional software engineer  
 - ⚡ Fun fact: I enjoy turning ideas into reality
 
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=C,C++,html,css,js,react,nodejs,git,github,vscode,figma" />
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=QasimAli13&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QasimAli13&layout=compact&theme=tokyonight" />
 </p>
 
 ## 📌 Projects
