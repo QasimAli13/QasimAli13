@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Waleed Imran</h1>
+<h1 align="center">Hi 👋, I'm Qasim ALi</h1>
+<p>Software Engineering Student | Web Dev | Building cool things on the web</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Lifelong+Learner;Frontend+Developer;Web+Enthusiast;Building+Cool+Projects&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Software+Engineering+Student;Frontend+Web+Developer;Driven+by+Continuous+Learning">
 </p>
 
 ## 🚀 About Me
