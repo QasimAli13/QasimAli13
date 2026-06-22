@@ -5,36 +5,24 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&center=true&vCenter=true&width=650&height=50&lines=Code+Architect;Problem+Solver;Future+Tech+Founder;Always+Building+Something+New&color=00C9FF&background=0D1117">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&center=true&vCenter=true&width=650&height=50&lines=Frontend+Web+Developer;Problem+Solver;Code+Builder;Always+Improving" />
 </p>
 
 ---
+## 🚀 About Me
 
-## 🚀 Developer Snapshot
-
-💻 Software Engineering Student  
-⚙️ Frontend Web Developer  
-🧠 Passionate about building real-world applications  
-🚀 Future Founder of **QubeSoft**
-
----
-
-## 🌐 My Vision
-
-I’m not just learning to code — I’m building toward something bigger.
-
-🚀 I aim to create **QubeSoft**, a tech brand focused on real-world software solutions  
-💡 I believe in learning by building, not just studying  
-⚙️ Every project is a step toward becoming a better engineer  
-
----
+🔭 Currently working on C++, Web Development, and Python projects  
+🤝 Open to collaborating on web development and open-source projects  
+💬 Ask me about C++, JavaScript, React, and UI/Frontend development  
+📫 Reach me at: qasiimali755@gmail.com  
+🌱 Learning continuously to grow as a software engineer and builder  
 
 ## 🧠 Mindset
 
-⚡ I don’t copy projects — I understand and rebuild them  
-🧩 I enjoy solving problems more than watching tutorials  
-🚀 I focus on real-world skills, not just theory  
-📈 I improve with every project I build  
+⚡ I prefer building over just learning  
+🧩 I enjoy solving real-world problems through code  
+🚀 I focus on understanding concepts deeply  
+📈 I improve through consistent practice and projects  
 
 ---
 
@@ -46,27 +34,12 @@ I’m not just learning to code — I’m building toward something bigger.
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
-🚀 **Weather App**  
-Real-time weather updates using API integration  
-
-🧮 **GitHub Profile Finder**  
-Search and display GitHub user statistics dynamically  
-
-✅ **Todo App**  
-Task manager using local storage  
-
-🌐 **Portfolio Website**  
-Personal developer portfolio with modern UI  
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=QasimAli13&theme=tokyo-night" />
-</p>
+🚀 Weather App — Real-time weather using API  
+🧮 GitHub Profile Finder — Search GitHub users and view stats  
+✅ Todo App — Simple task manager with local storage  
+🌐 Portfolio Website — Personal responsive website  
 
 ---
 
@@ -94,18 +67,16 @@ Personal developer portfolio with modern UI
 
 ## ⚡ Fun Facts
 
-💡 "I love turning crazy ideas into working software"  
-🎮 🎬 Netflix | 🎧 Music 
-🚀 "Building my future one project at a time"  
-🌍 "Dreaming of starting my own tech company — QubeSoft"
+💡 "I love turning crazy ideas into code that actually works"  <br>
+🎮 🎬 Netflix | 🎧 Music   <br>
+🚀 "Building my future one project at a time"   <br>
+🌍 "Dreaming of creating impactful software in the future"  
 
 ---
 
 ## 📫 Connect With Me
 
 🌐 Portfolio: https://portfolio-qasimali.vercel.app  
-📧 Email: qa4451226@gmail.com  
-📸 Instagram: _qaxim  
 
 <p align="center">
   <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
