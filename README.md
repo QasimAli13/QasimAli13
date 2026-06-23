@@ -67,10 +67,10 @@
 
 ## ⚡ Fun Facts
 
-💡 "I love turning crazy ideas into code that actually works"  <br>
+💡 I love turning crazy ideas into code that actually works  <br>
 🎬 Netflix | 🎧 Music   <br>
-🚀 "Building my future one project at a time"   <br>
-🌍 "Dreaming of creating impactful software in the future"  
+🚀 Building my future one project at a time   <br>
+🌍 Dreaming of creating impactful software in the future  
 
 ---
 
