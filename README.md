@@ -11,7 +11,7 @@
 ---
 ## 🚀 About Me
 
-🔭 Currently working on C++, Web Development, and Python projects  
+🔭 Currently working on C++ and Web Development. 
 🤝 Open to collaborating on web development and open-source projects  
 💬 Ask me about C++, JavaScript, React, and UI/Frontend development  
 📫 Reach me at: qasiimali755@gmail.com  
