@@ -11,10 +11,10 @@
 ---
 ## 🚀 About Me
 
-🔭 Currently working on C++ and Web Development. 
-🤝 Open to collaborating on web development and open-source projects  
-💬 Ask me about C++, JavaScript, React, and UI/Frontend development  
-📫 Reach me at: qasiimali755@gmail.com  
+🔭 Currently working on C++ and Web Development. <br>
+🤝 Open to collaborating on web development and open-source projects <br> 
+💬 Ask me about C++, JavaScript, React, and UI/Frontend development  <br>
+📫 Reach me at: qasiimali755@gmail.com  <br>
 🌱 Learning continuously to grow as a software engineer and builder  
 
 ## 🧠 Mindset
@@ -76,11 +76,12 @@
 
 ## 📫 Connect With Me
 
-🌐 Portfolio → [https://portfolio-qasimali.vercel.app](https://portfolio-qasimali.vercel.app)
-
 <p align="center">
   <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/QasimAli13"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.instagram.com/_qaxim?igsh=bXdsZjl6dGQyYXl2"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://portfolio-qasimali.vercel.app">
+  <img src="https://skillicons.dev/icons?i=vercel" />
+</a>
 </p>
