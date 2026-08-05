@@ -1,19 +1,38 @@
 ````md
 <div align="center">
 
-# Qasim Ali
+# Hi, I'm Qasim Ali 👋
 
-### MERN Stack Developer • Software Engineering Student • Future DevOps Engineer
-
-<p>
-Building scalable web applications, exploring backend systems, and continuously learning modern software engineering.
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Building+Real-World+Applications;Learning+DevOps+%26+Cloud;Always+Shipping+Projects" />
+### Software Engineering Student • MERN Stack Developer
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=QasimAli13&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
+Building modern full-stack web applications with the MERN Stack while continuously expanding my knowledge of backend development and DevOps.
 </p>
+
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Building+Real-World+Projects;Backend+Enthusiast;Future+DevOps+Engineer" />
+</p>
+
+<p>
+<a href="mailto:qa44512226@gmail.com">
+<img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<a href="https://www.linkedin.com/in/qasim-ali-18b485330">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/QasimAli13">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://portfolio-qasimali.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=QasimAli13&style=for-the-badge&color=0891b2"/>
 
 </div>
 
@@ -23,27 +42,29 @@ Building scalable web applications, exploring backend systems, and continuously 
 
 ```javascript
 const qasim = {
-    role: "Software Engineering Student",
-    university: "PUCIT",
-    location: "Pakistan",
+  education: "BS Software Engineering @ PUCIT",
 
-    currentFocus: [
-        "MERN Stack",
-        "Backend Development",
-        "REST APIs"
-    ],
+  currentlyBuilding: "PayPulse",
 
-    nextGoal: [
-        "Docker",
-        "AWS",
-        "DevOps",
-        "Cloud Engineering"
-    ],
+  interests: [
+    "Full-Stack Development",
+    "Backend Engineering",
+    "REST APIs",
+    "System Design"
+  ],
 
-    currentlyBuilding: "PayPulse",
-    openTo: "Internships & Open Source"
+  currentlyLearning: [
+    "Advanced MERN",
+    "Docker",
+    "Cloud & DevOps"
+  ],
+
+  openTo: [
+    "Software Engineering Internships",
+    "Open Source Collaboration"
+  ]
 };
-````
+```
 
 ---
 
@@ -65,7 +86,7 @@ const qasim = {
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,postman,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,figma,vercel" />
 
 </div>
 
@@ -75,25 +96,43 @@ const qasim = {
 
 ### 💳 PayPulse
 
-Full-stack digital banking application built with the MERN Stack featuring JWT Authentication, fund transfers, transaction history, secure REST APIs and responsive UI.
+A full-stack banking application built with the MERN Stack featuring secure authentication, account management, fund transfers and transaction history.
 
-**Tech:** React • Node.js • Express • MongoDB • JWT
+**Stack**
+
+`React` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `REST API`
+
+🔗 **Repository:**  
+https://github.com/QasimAli13/PayPulse
+
+🌐 **Live Demo:**  
+https://pay-pulse-three.vercel.app/
 
 ---
 
 ### 🌦 Weather App
 
-Responsive weather application with real-time weather data using a public Weather API.
+A responsive weather application that provides real-time weather information using a public Weather API.
 
-**Tech:** HTML • CSS • JavaScript • Weather API
+**Stack**
+
+`HTML` • `CSS` • `JavaScript` • `Weather API`
+
+🔗 Repository  
+https://github.com/QasimAli13/WeatherApp
 
 ---
 
-### 👨‍💻 GitHub Profile Finder
+### 👤 GitHub Profile Finder
 
-Search GitHub users and display profile information, repositories and statistics using the GitHub REST API.
+Search GitHub users and display repositories, followers and profile statistics using the GitHub REST API.
 
-**Tech:** HTML • CSS • JavaScript • GitHub API
+**Stack**
+
+`HTML` • `CSS` • `JavaScript` • `GitHub API`
+
+🔗 Repository  
+https://github.com/QasimAli13/GitHubProfileFinder
 
 ---
 
@@ -101,70 +140,51 @@ Search GitHub users and display profile information, repositories and statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=QasimAli13&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=QasimAli13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QasimAli13&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img width="700" src="https://streak-stats.demolab.com?user=QasimAli13&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+
+<img width="720" src="https://streak-stats.demolab.com?user=QasimAli13&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# Current Roadmap
+# 2026 Learning Roadmap
 
 ```text
-✔ HTML • CSS • JavaScript
-✔ React
-✔ Node.js
-✔ Express.js
-✔ MongoDB
-✔ REST APIs
-✔ JWT Authentication
-✔ Git & GitHub
+✅ HTML
+✅ CSS
+✅ JavaScript
+✅ React
+✅ Node.js
+✅ Express.js
+✅ MongoDB
+✅ REST APIs
+✅ JWT Authentication
+✅ Git & GitHub
 
-━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━
 
-► Docker
-► AWS
-► CI/CD
-► DevOps
-► Cloud Engineering
+⬜ Docker
+⬜ AWS
+⬜ CI/CD
+⬜ Terraform
+⬜ Kubernetes
+⬜ DevOps
 ```
-
----
-
-# Connect
-
-<div align="center">
-
-<a href="mailto:qa44512226@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/qasim-ali-18b485330">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/QasimAli13">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://portfolio-qasimali.vercel.app">
-<img src="https://skillicons.dev/icons?i=vercel"/>
-</a>
-
-<a href="https://www.instagram.com/_qaxim">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-</div>
 
 ---
 
 <div align="center">
 
-### *"Build. Break. Learn. Repeat."*
+### Thanks for visiting my profile.
+
+*"Building today. Improving every day."*
 
 </div>
-```
+````
