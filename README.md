@@ -34,8 +34,7 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
-
+<img align="right" width="350" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"/>
 I'm **Qasim Ali**, a **Software Engineering student at PUCIT** with a strong passion for building modern, scalable and user-focused web applications.
 
 My journey started with frontend development and gradually evolved into full-stack engineering using the **MERN Stack**. I enjoy transforming ideas into practical software while writing clean, maintainable code and continuously improving my development workflow.
