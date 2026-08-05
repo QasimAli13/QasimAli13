@@ -1,102 +1,135 @@
 <div align="center">
 
-# Hi, I'm Qasim Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
-
-### Software Engineering Student • MERN Stack Developer
-
-<p>
-Building scalable web applications with the MERN Stack while continuously learning backend engineering, system design and DevOps.
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Qasim%20Ali&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20MERN%20Stack%20Developer&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Full-Stack+Web+Developer;Building+Real-World+Projects;Clean+Code+%7C+Modern+UI+%7C+REST+APIs;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+Real-World+Software;MERN+Stack+Developer;Backend+Enthusiast;Future+Cloud+%26+DevOps+Engineer;Always+Learning+Something+New"/>
 
 <br><br>
 
+<a href="https://portfolio-qasimali.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 <a href="mailto:qa44512226@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/qasim-ali-18b485330">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/QasimAli13">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-qasimali.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=QasimAli13&style=for-the-badge&color=0891B2"/>
+<img src="https://komarev.com/ghpvc/?username=QasimAli13&style=for-the-badge&color=0ea5e9"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9qdWZmNDBnMWV2MXQ0ZXNobXNhMGlncGxjNnI2c3BzaDJvNjBqbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="35"> About Me
 
-<img align="right" width="350" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 
-### 👨‍💻 Who Am I?
+```cpp
+class Developer {
 
-* 🎓 Software Engineering student at **PUCIT**
-* 💻 Passionate about building **modern full-stack web applications**
-* 🚀 Strong foundation in the **MERN Stack**
-* 🌱 Currently learning **Backend Development** while preparing for **DevOps & Cloud**
-* 🤝 Open to internship opportunities and open-source collaboration
-* ⚡ I enjoy solving real-world problems through software
+public:
+
+    string name = "Qasim Ali";
+
+    string education =
+        "BS Software Engineering @ PUCIT";
+
+    string role =
+        "MERN Stack Developer";
+
+    vector<string> interests = {
+
+        "Backend Development",
+        "REST APIs",
+        "System Design",
+        "Cloud Computing",
+        "DevOps"
+
+    };
+
+    vector<string> currently_learning = {
+
+        "Advanced MERN",
+        "Docker",
+        "AWS"
+
+    };
+
+};
+```
 
 <br>
 
-### 📌 Current Focus
+## ⚡ Current Focus
 
 ```text
-✔ MERN Stack Development
-✔ REST API Development
-✔ Authentication & Authorization
-✔ Responsive UI Design
+███████████████████████████████████████████
 
-Next →
+Building production-ready Full Stack Applications
 
-□ Docker
-□ AWS
-□ CI/CD
-□ DevOps
+Learning Backend Architecture
+
+Preparing for DevOps & Cloud Engineering
+
+Always improving through projects.
+
+███████████████████████████████████████████
 ```
 
 ---
 
-# 💻 Tech Stack
+# <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="30"> Tech Arsenal
 
 <div align="center">
 
 ### Languages
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=c,cpp,js"/>
+
 </p>
+
+---
 
 ### Frontend
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=html,css,react"/>
+
 </p>
+
+---
 
 ### Backend
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+
 </p>
 
-### Tools & Platforms
+---
+
+### Tools
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,figma,vercel"/>
+
 </p>
 
 </div>
@@ -105,50 +138,109 @@ Next →
 
 <div align="center">
 
-### ⚡ *"First, solve the problem. Then, write the code."*
+## ⚙️ Engineering Philosophy
+
+> **"Write code that your future self will thank you for."**
 
 </div>
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 💳 PayPulse
-
-A full-stack digital banking platform built with the MERN Stack that enables secure authentication, balance management, fund transfers and transaction history through a modern responsive interface.
-
-**Tech Stack**
-
-`React` `Node.js` `Express.js` `MongoDB` `JWT` `REST API`
 
 <br>
 
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
+
+</p>
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"> Featured Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💳 PayPulse
+
+> **Full Stack Digital Banking Platform**
+
+A modern banking application built with the MERN Stack featuring secure authentication, account management, fund transfers and transaction history with a clean responsive interface.
+
+<br>
+
+**Core Features**
+
+✔ JWT Authentication
+
+✔ Money Transfer
+
+✔ Transaction History
+
+✔ Responsive UI
+
+✔ Protected Routes
+
+✔ REST API
+
+<br>
+
+**Tech Stack**
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
+
+</p>
+
 <a href="https://pay-pulse-three.vercel.app/">
+
 <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
 </a>
 
 <a href="https://github.com/QasimAli13/PayPulse">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌦 Weather App
 
-A responsive weather application that fetches live weather information using a public Weather API with an intuitive and clean user interface.
+> **Real-Time Weather Dashboard**
 
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `Weather API`
+Search any city and instantly get current weather information with a clean responsive interface powered by a public Weather API.
 
 <br>
 
+**Features**
+
+✔ Live Weather
+
+✔ API Integration
+
+✔ Search Cities
+
+✔ Responsive Design
+
+<br>
+
+**Tech Stack**
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+</p>
+
 <a href="https://github.com/QasimAli13/WeatherApp">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 </td>
@@ -157,38 +249,67 @@ A responsive weather application that fetches live weather information using a p
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 👤 GitHub Profile Finder
+### 👨‍💻 GitHub Profile Finder
 
-Search GitHub users and instantly display profile details, repositories and public statistics using the GitHub REST API.
+> **GitHub User Search**
 
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `GitHub API`
+Search GitHub users and explore their repositories, followers and public profile information using the GitHub REST API.
 
 <br>
 
+**Features**
+
+✔ User Search
+
+✔ Repository List
+
+✔ Profile Stats
+
+✔ API Integration
+
+<br>
+
+**Tech Stack**
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+</p>
+
 <a href="https://github.com/QasimAli13/GitHubProfileFinder">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🚧 Coming Soon...
+# 🚀 Next Project
 
-```text
-Next Major Project
+```text id="2j1d7w"
+██████████████████
 
 Docker
+
 AWS
+
 CI/CD
+
 DevOps
 
-Loading...
+██████████████████
 ```
+
+<p align="center">
+
+<b>Coming Soon...</b>
+
+</p>
 
 </td>
 
@@ -196,9 +317,11 @@ Loading...
 
 </table>
 
+</div>
+
 ---
 
-# 📈 GitHub Analytics
+# <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="28"> GitHub Analytics
 
 <div align="center">
 
@@ -218,44 +341,72 @@ Loading...
 
 ---
 
-# 🏆 GitHub Achievements
+# <img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" width="28"> GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=QasimAli13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=QasimAli13&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
 
 </div>
 
 ---
 
-# 📊 Contribution Graph
+# <img src="https://cdn-icons-png.flaticon.com/512/1006/1006555.png" width="28"> Contribution Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=QasimAli13&theme=tokyo-night&hide_border=true"/>
 
 </div>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+</p>
+## <img src="https://cdn-icons-png.flaticon.com/512/942/942799.png" width="28"> Current Journey
+
+<div align="center">
+
+| Stage        |  Status |
+| :----------- | :-----: |
+| C / C++      |    ✅    |
+| HTML / CSS   |    ✅    |
+| JavaScript   |    ✅    |
+| React.js     |    ✅    |
+| Node.js      |    ✅    |
+| Express.js   |    ✅    |
+| MongoDB      |    ✅    |
+| REST APIs    |    ✅    |
+| Git & GitHub |    ✅    |
+| Docker       | 🔄 Next |
+| AWS          |    ⏳    |
+| CI/CD        |    ⏳    |
+| DevOps       |    🎯   |
+
+</div>
+
 ---
 
-# 🎯 2026 Roadmap
+## 📚 Currently Exploring
 
-```text
-██████████████████████████████████  MERN Stack            ✅ Completed
+```text id="znu4zl"
+• Advanced Backend Development
 
-██████████████████████░░░░░░░░░░░░  Advanced Backend      🔄 In Progress
+• Docker & Containerization
 
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  Docker               ⏳ Next
+• Cloud Computing
 
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  AWS Cloud            ⏳ Planned
+• AWS
 
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  CI/CD                ⏳ Planned
+• DevOps
 
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  DevOps               🎯 Goal
+• Software Architecture
 ```
 
 ---
 
-# 🤝 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -267,13 +418,23 @@ Loading...
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://portfolio-qasimali.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 <a href="https://github.com/QasimAli13">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-qasimali.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+</div>
+
+---
+
+## 💭 Quote
+
+<div align="center">
+
+> **"Discipline compounds. Small improvements every day create extraordinary results."**
 
 </div>
 
@@ -281,16 +442,8 @@ Loading...
 
 <div align="center">
 
-### 💡 Philosophy
+### Thanks for visiting my profile!
 
-> **"Code. Learn. Improve. Repeat."**
-
-<br>
-
-*"The best way to predict the future is to build it."*
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22d3ee&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer"/>
 
 </div>
