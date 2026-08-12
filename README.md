@@ -102,7 +102,7 @@ I'm currently strengthening my backend development skills while progressing towa
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ## 💳 PayPulse
 
@@ -146,7 +146,7 @@ A full-stack banking application built with the **MERN Stack**, designed to simu
 
 </td>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ## 🌦 WeatherTrack
 
@@ -189,7 +189,7 @@ A responsive real-time weather application providing detailed weather informatio
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ## 👤 GitHub Profile Finder
 
@@ -218,7 +218,7 @@ A web application that allows users to search GitHub profiles and explore public
 
 </td>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ## 🚧 Next Project
 
