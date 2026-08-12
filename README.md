@@ -1,10 +1,11 @@
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&customColorList=12,20,24,30&text=Qasim%20Ali&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20MERN%20Stack%20Developer&descAlignY=60"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+Real-World+Software;Full-Stack+MERN+Developer;Backend+Enthusiast;Future+Cloud+%26+DevOps+Engineer;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=50&lines=Building+Real-World+Software;Full-Stack+MERN+Developer;Backend+Enthusiast;Future+Cloud+%26+DevOps+Engineer;Always+Learning+Something+New"/>
 
 <br><br>
 
@@ -35,19 +36,20 @@
 # 👨‍💻 About Me
 
 <img align="right" width="350" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"/>
-I'm **Qasim Ali**, a **Software Engineering student at PUCIT** with a strong passion for building modern, scalable and user-focused web applications.
 
-My journey started with frontend development and gradually evolved into full-stack engineering using the **MERN Stack**. I enjoy transforming ideas into practical software while writing clean, maintainable code and continuously improving my development workflow.
+I'm **Qasim Ali**, a **Software Engineering student at PUCIT** passionate about building modern, practical, and user-focused software.
 
-I'm currently strengthening my backend development skills and preparing for **Cloud & DevOps**, with the goal of building reliable, production-ready systems.
+My development journey started with frontend development and evolved into **full-stack web development using the MERN Stack**. I enjoy turning ideas into functional applications while focusing on clean architecture, responsive interfaces, backend APIs, and real-world functionality.
+
+I'm currently strengthening my backend development skills while progressing toward **Cloud & DevOps Engineering**.
 
 ### Currently
 
-* 🚀 Building Full-Stack MERN Applications
-* 💻 Exploring Backend Architecture
-* 📚 Learning Docker
-* ☁️ Preparing for AWS & DevOps
-* 🤝 Open to Internship Opportunities
+- 🚀 Building full-stack MERN applications
+- 💻 Exploring backend architecture and REST APIs
+- 🐳 Learning Docker and containerized development
+- ☁️ Preparing for AWS & DevOps
+- 🤝 Open to Software Engineering internship opportunities
 
 <br clear="right"/>
 
@@ -59,49 +61,24 @@ I'm currently strengthening my backend development skills and preparing for **Cl
 
 ### Languages
 
-<p>
-
 <img src="https://skillicons.dev/icons?i=c,cpp,js"/>
-
-</p>
-
----
 
 ### Frontend
 
-<p>
-
 <img src="https://skillicons.dev/icons?i=html,css,react"/>
 
-</p>
-
----
-
-### Backend
-
-<p>
+### Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
 
-</p>
-
----
-
 ### Tools & Platforms
-
-<p>
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,figma,vercel"/>
 
-</p>
-
-<p>
+<br>
 
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/MongoDB_Atlas-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-</p>
 
 </div>
 
@@ -109,19 +86,14 @@ I'm currently strengthening my backend development skills and preparing for **Cl
 
 <div align="center">
 
-### 💭 Philosophy
+### 💭 Development Philosophy
 
 > *"Great software is built one consistent improvement at a time."*
 
 </div>
 
-<br>
+---
 
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-</p>
 # 🚀 Featured Projects
 
 <div align="center">
@@ -134,28 +106,35 @@ I'm currently strengthening my backend development skills and preparing for **Cl
 
 ## 💳 PayPulse
 
-**A Modern Digital Banking Platform**
+### Modern Digital Banking Platform
 
-A full-stack banking application built with the MERN Stack that enables users to securely manage accounts, transfer funds, track transactions and authenticate using JWT.
-
-<br>
+A full-stack banking application built with the **MERN Stack**, designed to simulate core digital banking workflows including authentication, money transfers, savings management, transaction tracking, and account management.
 
 ### Highlights
 
-* Secure Authentication
-* Fund Transfers
-* Transaction History
-* Responsive UI
-* RESTful API
-* MongoDB Integration
+- 🔐 JWT-based authentication
+- 🔑 Forgot & change password
+- 📧 Email verification
+- 💳 Secure money transfers
+- 📊 Transaction history with search & filters
+- 💰 Locked savings vaults with goals
+- 📈 Savings progress tracking
+- 🔳 Personal QR code generation
+- 📷 QR camera scanning for quick transfers
+- 📄 Individual PDF transaction receipts
+- 📑 Monthly account statement PDF export
+- 📋 Account and profile management
+- 📱 Responsive banking interface
+
+### Built With
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
 
 <br>
 
-**Built With**
+<img src="https://img.shields.io/badge/jsPDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
-</p>
+<br><br>
 
 <a href="https://pay-pulse-three.vercel.app/">
 <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -169,28 +148,36 @@ A full-stack banking application built with the MERN Stack that enables users to
 
 <td width="50%" valign="top">
 
-## 🌦 Weather App
+## 🌦 WeatherTrack
 
-**Real-Time Weather Dashboard**
+### Advanced Real-Time Weather Dashboard
 
-A clean and responsive weather application that provides live weather information for any city using a public weather API.
-
-<br>
+A responsive real-time weather application providing detailed weather information with location detection, forecasts, personalized city management, and useful weather insights.
 
 ### Highlights
 
-* Live Weather Data
-* City Search
-* Responsive Design
-* API Integration
+- 📍 Current location detection
+- 🌡 Detailed current weather information
+- 🔄 Celsius / Fahrenheit conversion
+- 🕐 Hourly weather forecast
+- 📅 7-day weather forecast
+- ⭐ Favorite cities
+- 🕘 Recent searches
+- 💡 Weather insights
+- 🌅 Sunrise & sunset information
+- 🌐 Dynamic weather API integration
+- 💾 LocalStorage persistence
+- 📱 Fully responsive interface
 
-<br>
+### Built With
 
-**Built With**
-
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,js"/>
-</p>
+
+<br><br>
+
+<a href="https://weather-app-inky-delta-38.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 <a href="https://github.com/QasimAli13/WeatherApp">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
@@ -206,26 +193,24 @@ A clean and responsive weather application that provides live weather informatio
 
 ## 👤 GitHub Profile Finder
 
-**GitHub User Explorer**
+### GitHub User Explorer
 
-Search GitHub users and instantly explore their profile, repositories, followers and public statistics through the GitHub REST API.
-
-<br>
+A web application that allows users to search GitHub profiles and explore public repositories, followers, and profile statistics using the GitHub REST API.
 
 ### Highlights
 
-* User Search
-* Repository Viewer
-* GitHub API
-* Responsive Interface
+- 🔎 GitHub user search
+- 📚 Repository information
+- 👥 Followers & following
+- 📊 Public profile statistics
+- 🌐 GitHub REST API integration
+- 📱 Responsive interface
 
-<br>
+### Built With
 
-**Built With**
-
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,js"/>
-</p>
+
+<br><br>
 
 <a href="https://github.com/QasimAli13/GitHubProfileFinder">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
@@ -235,19 +220,22 @@ Search GitHub users and instantly explore their profile, repositories, followers
 
 <td width="50%" valign="top">
 
-## 📌 Next Project
+## 🚧 Next Project
+
+### Cloud-Native DevOps Platform
+
+A future project focused on applying cloud and DevOps concepts to a real-world application.
 
 ```text
-Cloud Native DevOps Platform
-
 Docker
 AWS
 CI/CD
 GitHub Actions
-Terraform
+Infrastructure
+Monitoring
+````
 
-Coming Soon...
-```
+**Coming Soon...**
 
 </td>
 
@@ -297,13 +285,7 @@ Coming Soon...
 
 </div>
 
-<br>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-</p>
 ---
-
 
 # 🎯 2026 Goals
 
@@ -311,8 +293,8 @@ Coming Soon...
 * 🐳 Master Docker & containerized development
 * ☁️ Learn AWS cloud fundamentals
 * ⚙️ Implement CI/CD pipelines
-* 📚 Deepen backend architecture knowledge
-* 💼 Secure a Software Engineering Internship
+* 🏗️ Improve backend and system architecture skills
+* 💼 Secure a Software Engineering internship
 
 ---
 
@@ -342,12 +324,11 @@ Coming Soon...
 
 <div align="center">
 
-### ⚡ Philosophy
-
-> **"Consistency beats intensity. Build. Learn. Improve. Repeat."**
+### ⚡ Build. Learn. Improve. Repeat.
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12,20,24,30&section=footer"/>
 
 </div>
+```
