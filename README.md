@@ -93,22 +93,14 @@ I'm currently strengthening my backend development skills while progressing towa
 </div>
 
 ---
+---
 
 # 🚀 Featured Projects
 
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="100%" valign="top">
-
 ## 💳 PayPulse
-
 ### Modern Digital Banking Platform
 
-A full-stack banking application built with the **MERN Stack**, designed to simulate core digital banking workflows including authentication, money transfers, savings management, transaction tracking, and account management.
+A full-stack digital banking application built with the **MERN Stack**, designed to simulate real-world banking workflows including authentication, money transfers, savings management, transaction tracking, QR-based transfers, and PDF account documentation.
 
 ### Highlights
 
@@ -117,42 +109,38 @@ A full-stack banking application built with the **MERN Stack**, designed to simu
 - 📧 Email verification
 - 💳 Secure money transfers
 - 📊 Transaction history with search & filters
-- 💰 Locked savings vaults with goals
+- 💰 Locked savings vaults with savings goals
 - 📈 Savings progress tracking
 - 🔳 Personal QR code generation
 - 📷 QR camera scanning for quick transfers
 - 📄 Individual PDF transaction receipts
 - 📑 Monthly account statement PDF export
-- 📋 Account and profile management
+- 👤 Account & profile management
 - 📱 Responsive banking interface
 
 ### Built With
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/jsPDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-
-<br><br>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+<img src="https://img.shields.io/badge/jsPDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</p>
 
 <a href="https://pay-pulse-three.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://github.com/QasimAli13/PayPulse">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</td>
-
-<td width="100%" valign="top">
+---
 
 ## 🌦 WeatherTrack
-
 ### Advanced Real-Time Weather Dashboard
 
-A responsive real-time weather application providing detailed weather information with location detection, forecasts, personalized city management, and useful weather insights.
+A responsive real-time weather application providing detailed weather information with **current location detection, hourly and 7-day forecasts, temperature conversion, favorite cities, recent searches, weather insights, and sunrise/sunset information**.
+
+Weather data is fetched dynamically through weather APIs, while favorite cities and recent searches are persisted using **LocalStorage**.
 
 ### Highlights
 
@@ -171,31 +159,24 @@ A responsive real-time weather application providing detailed weather informatio
 
 ### Built With
 
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-
-<br><br>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
 <a href="https://weather-app-inky-delta-38.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://github.com/QasimAli13/WeatherApp">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="100%" valign="top">
+---
 
 ## 👤 GitHub Profile Finder
-
 ### GitHub User Explorer
 
-A web application that allows users to search GitHub profiles and explore public repositories, followers, and profile statistics using the GitHub REST API.
+A web application that allows users to search GitHub profiles and explore public repositories, followers, following, and profile statistics using the **GitHub REST API**.
 
 ### Highlights
 
@@ -208,23 +189,20 @@ A web application that allows users to search GitHub profiles and explore public
 
 ### Built With
 
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-
-<br><br>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
 <a href="https://github.com/QasimAli13/GitHubProfileFinder">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</td>
-
-<td width="100%" valign="top">
+---
 
 ## 🚧 Next Project
-
 ### Cloud-Native DevOps Platform
 
-A future project focused on applying cloud and DevOps concepts to a real-world application.
+A future project focused on applying **Docker, cloud infrastructure, CI/CD, and DevOps practices** to a real-world application.
 
 ```text
 Docker
@@ -233,19 +211,7 @@ CI/CD
 GitHub Actions
 Infrastructure
 Monitoring
-````
-
-**Coming Soon...**
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
+```
 
 # 📊 GitHub Analytics
 
