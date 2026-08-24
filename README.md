@@ -1,32 +1,32 @@
 <div align="center">
 
-# 🚀 Qasim Ali
-### **Software Engineering Student @ PUCIT | Full-Stack MERN & DevOps Enthusiast**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&customColorList=12,20,24,30&text=Qasim%20Ali&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20MERN%20Stack%20Developer&descAlignY=60"/>
 
-<br/>
+<br>
 
-<!-- 🔥 100% Reliable Animated Typing SVG (Works on every browser & GitHub app) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=50&lines=Building+Production-Ready+Software;Full-Stack+MERN+Developer;AI+%26+Backend+Enthusiast;Future+Cloud+%26+DevOps+Engineer;Always+Learning+Something+New"/>
+
+<br><br>
+
 <a href="https://portfolio-qasimali.vercel.app">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=850&lines=Building+Production-Ready+Full-Stack+Web+Apps;Architecting+AI+Copilots+%26+University+ERPs;Dockerizing+MERN+Apps+%26+Cloud+Deployments;Clean+Code+%E2%80%A2+Scalable+APIs+%E2%80%A2+Real-World+Impact" alt="Typing Animation" />
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<br/><br/>
+<a href="mailto:qa44512226@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<!-- Modern Social & Portfolio Badges -->
-<p align="center">
-  <a href="https://portfolio-qasimali.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/qasim-ali-18b485330">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:qa44512226@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/QasimAli13">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/qasim-ali-18b485330">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/QasimAli13">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=QasimAli13&style=for-the-badge&color=0ea5e9"/>
 
 </div>
 
@@ -34,47 +34,53 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/coder.gif" alt="Developer Coding Animation" />
+<img align="right" width="350" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"/>
 
-I am a **Software Engineering student at PUCIT Lahore** and a **Full-Stack Developer** passionate about building real-world, scalable, and resilient software systems.
+I'm **Qasim Ali**, a **Software Engineering student at PUCIT** passionate about engineering scalable, real-world, and user-centric software systems.
 
-My development stack is centered around **React 19, Node.js, Express, MongoDB Atlas**, and integrating **LLM AI copilots**. I prioritize clean modular architecture, API security, robust data modeling, and modern deployment pipelines.
+My journey spans **full-stack web development with the MERN stack**, architecting robust RESTful backends, and integrating **AI-powered workflows**. I focus on clean architecture, reliable data handling, interactive interfaces, and production-ready deployments.
 
-Currently expanding into **Docker containerization, CI/CD automation, and Cloud/DevOps Engineering**.
+I am actively expanding my expertise into **Cloud Architecture, Docker, and DevOps Engineering**.
 
-### ⚡ Highlights & Focus
-* 🏛️ **University:** PUCIT (Punjab University College of Information Technology), Lahore
-* 💻 **Primary Stack:** JavaScript (ES6+), React 19, Node.js, Express.js, MongoDB
-* 🤖 **AI Integration:** OpenRouter API (`openai/gpt-oss-120b`) with resilient fallback architectures
-* 🐳 **DevOps Exploration:** Multi-stage Docker builds, Docker Compose, and Linux system management
-* 🤝 **Goal:** Seeking Software Engineering internship opportunities to solve real production challenges
+### Currently
+
+- 🚀 Architecting full-stack MERN & AI-powered web applications
+- 💻 Designing resilient backend systems & RESTful APIs
+- 🤖 Integrating AI into practical software products
+- 🐳 Containerizing workflows with Docker & Docker Compose
+- ☁️ Exploring AWS cloud fundamentals
+- ⚙️ Learning CI/CD and DevOps workflows
+- 🤝 Open to Software Engineering internships and collaborative projects
 
 <br clear="right"/>
 
 ---
 
-# 🛠️ Tech Stack & Tooling
+# ⚡ Tech Stack
 
 <div align="center">
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=js,cpp,c,bash&theme=dark" alt="Languages" />
+### Languages
 
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js"/>
 
-### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend" />
+### Frontend
 
-### 🚀 DevOps, Tools & Cloud
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,vercel,netlify&theme=dark" alt="DevOps and Tools" />
+<img src="https://skillicons.dev/icons?i=html,css,react,vite"/>
 
-<br/><br/>
+### Backend & Database
 
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
-<img src="https://img.shields.io/badge/MongoDB_Atlas-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas" />
-<img src="https://img.shields.io/badge/OpenRouter_AI-6366F1?style=for-the-badge&logo=openai&logoColor=white" alt="OpenRouter AI" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,figma,vercel"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/MongoDB_Atlas-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenRouter_AI-6366F1?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
 
@@ -82,8 +88,9 @@ Currently expanding into **Docker containerization, CI/CD automation, and Cloud/
 
 <div align="center">
 
-### 💡 Core Engineering Principle
-> *"Simplicity is a prerequisite for reliability — architect with precision, build with intent."*
+### 💭 Development Philosophy
+
+> *"Great software is engineered through architectural precision and consistent improvement."*
 
 </div>
 
@@ -91,91 +98,129 @@ Currently expanding into **Docker containerization, CI/CD automation, and Cloud/
 
 # 🚀 Featured Projects
 
-## 🎓 CampusHub AI — Smart University ERP & Copilot
+## 🎓 CampusHub AI
+### Smart University ERP & Academic Copilot
 
-An enterprise-grade university management platform featuring Role-Based Access Control (**RBAC**) and an integrated LLM study assistant for automated academic workflows.
+A comprehensive University Enterprise Resource Planning (ERP) platform designed to streamline campus management, academic records, and student analytics, powered by an integrated AI Copilot for interactive learning and automated assistance.
 
-* 👥 **RBAC Architecture:** Specialized dashboards for Administrators, Faculty, and Students.
-* 🤖 **AI Academic Copilot:** Study assistant via OpenRouter API with automated retry fallbacks and formatted Markdown outputs.
-* 📊 **Analytics Dashboard:** Visual performance tracking and grade metrics powered by Recharts.
-* 🔐 **Security & Deployment:** Stateless JWT authentication deployed live across Vercel and Render.
+### Highlights
 
-**Tech Stack:** `React 19` • `Vite` • `Node.js` • `Express.js` • `MongoDB Atlas` • `OpenRouter API` • `JWT` • `Recharts`
+- 👥 Role-Based Access Control (RBAC) for Admins, Faculty, and Students
+- 🤖 OpenRouter AI Copilot (`openai/gpt-oss-120b`) for academic study assistance and structured quiz generation
+- 📊 Real-time student academic performance and analytics using Recharts
+- 🔐 JWT-based stateless authentication with Axios request interceptors
+- 📝 Native structured Markdown and tabular AI response rendering
+- ⚡ Live production deployment on Vercel (Frontend) and Render (Backend)
+
+### Built With
 
 <p>
-  <a href="https://campus-hub-ai.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-  </a>
-  <a href="https://github.com/QasimAli13/CampusHub-AI">
-    <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-  </a>
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb" />
+<img src="https://img.shields.io/badge/OpenRouter-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
+
+<a href="https://campus-hub-ai.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://github.com/QasimAli13/CampusHub-AI">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
-## 💳 PayPulse — Modern Digital Banking Platform
+## 💳 PayPulse
+### Modern Digital Banking Platform
 
-A full-stack FinTech web application simulating real-world digital banking operations, secure money transfers, and automated PDF document generation.
+A full-stack digital banking application built with the **MERN Stack**, designed to simulate real-world banking workflows including authentication, money transfers, savings management, transaction tracking, QR-based transfers, and PDF account documentation.
 
-* 💳 **Peer-to-Peer Transfers:** Real-time money transfers with balance validation and searchable ledgers.
-* 💰 **Locked Savings Vaults:** Goal-oriented savings tracking with visual progress indicators.
-* 🔳 **QR Ecosystem:** Personal QR code generation and camera-based scanning for quick payments.
-* 📄 **Document Generation:** Automated client-side PDF statements and transaction receipts via jsPDF.
+### Highlights
 
-**Tech Stack:** `React` • `Node.js` • `Express.js` • `MongoDB Atlas` • `JWT` • `jsPDF` • `CSS3`
+- 🔐 JWT-based authentication with email verification & password recovery
+- 💳 Secure peer-to-peer money transfers with balance validation
+- 📊 Real-time transaction history with comprehensive search & category filters
+- 💰 Locked savings vaults with automated goal progress tracking
+- 🔳 Dynamic personal QR code generation and camera scanning for instant transfers
+- 📄 Automated PDF transaction receipt generation and monthly account statement export
+
+### Built With
 
 <p>
-  <a href="https://pay-pulse-three.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-  </a>
-  <a href="https://github.com/QasimAli13/PayPulse">
-    <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-  </a>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+<img src="https://img.shields.io/badge/jsPDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </p>
+
+<a href="https://pay-pulse-three.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://github.com/QasimAli13/PayPulse">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
-## 🐞 BugTracker — Collaborative Defect Management System
+## 🐞 BugTracker AI
+### Smart Crash Log & Error Resolution Hub
 
-A workflow tracking and issue management system designed for software engineering teams to log, triage, assign, and resolve project bugs across sprints.
+A full-stack AI-powered developer tool designed to analyze runtime crash logs and stack traces, identify likely causes, suggest actionable fixes, and help developers understand and resolve software errors more efficiently.
 
-* 🎯 **Bug Lifecycle Management:** Full ticket workflow tracking (Open, In Progress, Review, Resolved).
-* 🏷️ **Priority & Tagging:** Dynamic severity flags, module categorizations, and developer assignment.
-* 📈 **Sprint Metrics:** Real-time dashboards displaying open defects and resolution velocity.
-* 🎨 **Tailwind Interface:** Responsive, minimalist UI styled exclusively with Tailwind CSS.
+### Highlights
 
-**Tech Stack:** `React` • `Tailwind CSS` • `Node.js` • `Express.js` • `MongoDB` • `REST APIs`
+- 🤖 AI-powered runtime crash and error analysis
+- 🔍 Intelligent stack trace interpretation
+- 💡 Actionable error resolution and fix suggestions
+- 🧠 AI-assisted debugging workflow
+- 🎯 Complete bug lifecycle management
+- 🏷️ Severity and priority assignment with custom tagging
+- 👥 Role-based user assignments and ticket tracking
+- 📈 Visual dashboard metrics for bugs and resolution progress
+- 🔎 Multi-parameter filtering, search, and activity history
+- ⚡ Full-stack production deployment
+
+### Built With
 
 <p>
-  <a href="https://bugtracker-ai.netlify.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
-  </a>
-  <a href="https://github.com/QasimAli13/BugTracker">
-    <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-  </a>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" />
 </p>
+
+<a href="https://bugtracker-ai.netlify.app/">
+<img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+
+<a href="https://github.com/QasimAli13/BugTracker">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
-## 🌦️ WeatherTrack — Real-Time Meteorological Dashboard
+## 🌦 WeatherTrack
+### Advanced Real-Time Weather Dashboard
 
-An asynchronous real-time weather analytics application providing live atmospheric data with geolocation detection and persistent user preferences.
+A responsive real-time weather application providing detailed atmospheric metrics with **current location detection, hourly forecasts, 7-day extended forecasts, and persistent user preferences**.
 
-* 📍 **Geolocation Detection:** Automatic browser location sensing and city coordinate lookup.
-* 📈 **Granular Forecasts:** Real-time hourly predictions and extended 7-day weather outlook.
-* 🔄 **Dynamic Unit Conversion:** Seamless temperature metric toggling between Celsius and Fahrenheit.
-* 💾 **State Persistence:** Favorite cities and recent searches stored locally via LocalStorage.
+### Highlights
 
-**Tech Stack:** `JavaScript (ES6+)` • `HTML5` • `CSS3` • `Open-Meteo API` • `LocalStorage`
+- 📍 Automatic browser geolocation detection
+- 🌡 Multi-metric weather stats including humidity, wind speed, UV index, and pressure
+- 🔄 Celsius / Fahrenheit dynamic unit toggling
+- 🕐 Hourly forecasts and 7-day extended meteorological outlook
+- ⭐ Favorite cities and search history persisted via LocalStorage
+- 🌅 Sunrise and sunset timing calculations
+
+### Built With
 
 <p>
-  <a href="https://weather-app-inky-delta-38.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-  </a>
-  <a href="https://github.com/QasimAli13/WeatherApp">
-    <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-  </a>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
+
+<a href="https://weather-app-inky-delta-38.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://github.com/QasimAli13/WeatherApp">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
@@ -183,27 +228,50 @@ An asynchronous real-time weather analytics application providing live atmospher
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=QasimAli13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QasimAli13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=QasimAli13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<br/><br/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QasimAli13&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=QasimAli13&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
 
-<br/><br/>
+<br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=QasimAli13&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+<div align="center">
+
+<img width="95%" src="https://streak-stats.demolab.com?user=QasimAli13&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🎯 2026 Engineering Goals
+# 📈 Activity
 
-* 🐳 **Docker Mastery:** Build multi-stage Dockerfiles, manage volumes, and master Docker Compose for multi-tier services.
-* ⚙️ **CI/CD Automation:** Configure GitHub Actions workflows for automated linting, test suites, and container builds.
-* ☁️ **Cloud Fundamentals:** Deploy and manage services on AWS infrastructure.
-* 💼 **Career Milestone:** Secure a Software Engineering internship at an engineering-driven company.
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=QasimAli13&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=QasimAli13&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build production-ready, resilient full-stack applications
+- 🐳 Master Docker containerization & multi-stage deployment workflows
+- ☁️ Master AWS cloud fundamentals & server infrastructure
+- ⚙️ Implement automated CI/CD pipelines via GitHub Actions
+- 🏗️ Deepen expertise in backend scalability & system architecture
+- 💼 Secure a Software Engineering internship
 
 ---
 
@@ -212,20 +280,31 @@ An asynchronous real-time weather analytics application providing live atmospher
 <div align="center">
 
 <a href="mailto:qa44512226@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/qasim-ali-18b485330">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://portfolio-qasimali.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 <a href="https://github.com/QasimAli13">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+</div>
 
-### ⚡ Build. Learn. Ship. Repeat.
+---
+
+<div align="center">
+
+### ⚡ Build. Learn. Improve. Repeat.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12,20,24,30&section=footer"/>
 
 </div>
