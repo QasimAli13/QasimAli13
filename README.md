@@ -1,18 +1,16 @@
 <div align="center">
 
-<!-- Modern Animated SVG Header (100% Reliable, Crisp & Dark-Themed) -->
-<img width="100%" src="https://svg-banners.vercel.app/api?type=origin&text1=Qasim%20Ali&text2=Full-Stack%20MERN%20Developer%20%7C%20DevOps%20Enthusiast&width=900&height=220" alt="Qasim Ali Banner" />
-
-<br/><br/>
-
-<!-- Glowing Dynamic Typing Animation -->
-<a href="https://portfolio-qasimali.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=800&color=22D3EE&background=0D111700&center=true&vCenter=true&multiline=false&width=850&height=45&lines=Building+Production-Ready+Full-Stack+Web+Apps;Architecting+AI+Copilots+%26+University+ERPs;Dockerizing+MERN+Apps+%26+Cloud+Deployments;Clean+Code+%E2%80%A2+Scalable+APIs+%E2%80%A2+Real-World+Impact" alt="Typing Animation" />
-</a>
+<!-- Clean Permanent Header Wave (Static Bold Name & Title) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Qasim%20Ali&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20MERN%20%26%20DevOps&descAlignY=62" alt="Header Banner" />
 
 <br/>
 
-<!-- Interactive Aesthetic Social Badges -->
+<!-- Sleek Cyber Cyan Typing Line (No Name Shaking, Only Live Dynamic Text) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+Production-Ready+Full-Stack+Web+Apps;Architecting+AI+Copilots+%26+University+ERPs;Dockerizing+MERN+Apps+%26+Cloud+Deployments;Clean+Code+%E2%80%A2+Scalable+APIs+%E2%80%A2+Real-World+Impact" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- Modern Social & Portfolio Badges -->
 <p align="center">
   <a href="https://portfolio-qasimali.vercel.app">
     <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -28,8 +26,7 @@
   </a>
 </p>
 
-<!-- Live Profile Dynamic Counter -->
-<img src="https://komarev.com/ghpvc/?username=QasimAli13&style=flat-square&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=QasimAli13&style=for-the-badge&color=0ea5e9" alt="Profile Views" />
 
 </div>
 
@@ -37,9 +34,9 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUwnDvBIYjiAQONG/giphy.gif" alt="Coding GIF" />
+<img align="right" width="340" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Developer Working GIF" />
 
-I am a **Software Engineering student at PUCIT Lahore** and a **Full-Stack Developer** focused on engineering scalable, resilient, and intelligent web applications.
+I am a **Software Engineering student at PUCIT Lahore** and a **Full-Stack Developer** passionate about building real-world, scalable, and resilient software systems.
 
 My development stack is centered around **React 19, Node.js, Express, MongoDB Atlas**, and integrating **LLM AI copilots**. I prioritize clean modular architecture, API security, robust data modeling, and modern deployment pipelines.
 
@@ -56,28 +53,28 @@ Currently expanding into **Docker containerization, CI/CD automation, and Cloud/
 
 ---
 
-# 🛠️ Tech Stack & Tooling
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 <img src="https://skillicons.dev/icons?i=js,cpp,c,bash&theme=dark" alt="Languages" />
 
-### 🌐 Frontend
+### Frontend
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" alt="Frontend" />
 
-### ⚙️ Backend & Databases
+### Backend & Databases
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend" />
 
-### 🚀 DevOps, Tools & Cloud
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,vercel,netlify&theme=dark" alt="DevOps and Tools" />
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,vercel&theme=dark" alt="Tools" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
 <img src="https://img.shields.io/badge/MongoDB_Atlas-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas" />
 <img src="https://img.shields.io/badge/OpenRouter_AI-6366F1?style=for-the-badge&logo=openai&logoColor=white" alt="OpenRouter AI" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 
 </div>
 
@@ -85,8 +82,8 @@ Currently expanding into **Docker containerization, CI/CD automation, and Cloud/
 
 <div align="center">
 
-### 💡 Core Engineering Principle
-> *"Simplicity is a prerequisite for reliability — architect with precision, build with intent."*
+### 💭 Philosophy
+> *"Simplicity is a prerequisite for reliability. Build with intent, architect with precision."*
 
 </div>
 
@@ -98,9 +95,9 @@ Currently expanding into **Docker containerization, CI/CD automation, and Cloud/
 
 An enterprise-grade university management platform featuring Role-Based Access Control (**RBAC**) and an integrated LLM study assistant for automated academic workflows.
 
-* 👥 **RBAC Architecture:** Specialized dashboards for Administrators, Faculty, and Students.
-* 🤖 **AI Academic Copilot:** Study assistant via OpenRouter API with automated retry fallbacks and formatted Markdown outputs.
-* 📊 **Analytics Dashboard:** Visual performance tracking and grade metrics powered by Recharts.
+* 👥 **Role-Based Workflows:** Distinct portals and permissions for Administrators, Faculty, and Students.
+* 🤖 **AI Study Copilot:** Academic assistance via OpenRouter API with automated retry fallbacks and formatted Markdown outputs.
+* 📊 **Analytics Dashboard:** Visual performance tracking and grade insights powered by Recharts.
 * 🔐 **Security & Deployment:** Stateless JWT authentication deployed live across Vercel and Render.
 
 **Tech Stack:** `React 19` • `Vite` • `Node.js` • `Express.js` • `MongoDB Atlas` • `OpenRouter API` • `JWT` • `Recharts`
@@ -118,10 +115,10 @@ An enterprise-grade university management platform featuring Role-Based Access C
 
 ## 💳 PayPulse — Modern Digital Banking Platform
 
-A full-stack FinTech web application simulating real-world digital banking operations, secure money transfers, and automated PDF document generation.
+A full-stack FinTech application simulating real-world digital banking operations, secure money transfers, and automated PDF document generation.
 
-* 💳 **Peer-to-Peer Transfers:** Real-time money transfers with balance validation and searchable ledgers.
-* 💰 **Locked Savings Vaults:** Goal-oriented savings tracking with visual progress indicators.
+* 💳 **Peer-to-Peer Transfers:** Real-time money transfers with account balance verification.
+* 💰 **Locked Savings Vaults:** Goal-oriented savings tracking with visual progress metrics.
 * 🔳 **QR Ecosystem:** Personal QR code generation and camera-based scanning for quick payments.
 * 📄 **Document Generation:** Automated client-side PDF statements and transaction receipts via jsPDF.
 
@@ -186,8 +183,8 @@ An asynchronous real-time weather analytics application providing live atmospher
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=QasimAli13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QasimAli13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=QasimAli13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QasimAli13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/><br/>
 
@@ -199,15 +196,6 @@ An asynchronous real-time weather analytics application providing live atmospher
 
 <br/><br/>
 
-<!-- Modern Animated Interactive Snake Contribution Eater -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QasimAli13/QasimAli13/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QasimAli13/QasimAli13/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/QasimAli13/QasimAli13/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-<br/><br/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=QasimAli13&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
@@ -216,7 +204,7 @@ An asynchronous real-time weather analytics application providing live atmospher
 
 # 🎯 2026 Engineering Goals
 
-* 🐳 **Docker & Containerization:** Master multi-stage Dockerfiles, caching strategies, and Docker Compose for complex multi-tier services.
+* 🐳 **Docker Mastery:** Build multi-stage Dockerfiles, manage volumes, and master Docker Compose for multi-tier services.
 * ⚙️ **CI/CD Automation:** Configure GitHub Actions workflows for automated linting, test suites, and container builds.
 * ☁️ **Cloud Fundamentals:** Deploy and manage services on AWS infrastructure.
 * 💼 **Career Milestone:** Secure a Software Engineering internship at an engineering-driven company.
@@ -242,8 +230,8 @@ An asynchronous real-time weather analytics application providing live atmospher
 
 <br/><br/>
 
-<!-- Isometric Footer Separator -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0ea5e9" alt="Footer Line" />
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12,20,24,30&section=footer" alt="Footer Banner" />
 
 ### ⚡ Build. Learn. Ship. Repeat.
 
