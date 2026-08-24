@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- Clean Permanent Header Wave (Static Bold Name & Title) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Qasim%20Ali&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20MERN%20%26%20DevOps&descAlignY=62" alt="Header Banner" />
+# 🚀 Qasim Ali
+### **Software Engineering Student @ PUCIT | Full-Stack MERN & DevOps Enthusiast**
 
 <br/>
 
-<!-- Sleek Cyber Cyan Typing Line (No Name Shaking, Only Live Dynamic Text) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+Production-Ready+Full-Stack+Web+Apps;Architecting+AI+Copilots+%26+University+ERPs;Dockerizing+MERN+Apps+%26+Cloud+Deployments;Clean+Code+%E2%80%A2+Scalable+APIs+%E2%80%A2+Real-World+Impact" alt="Typing SVG" />
+<!-- 100% Reliable Glowing Animated Live Typing Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+Production-Ready+Full-Stack+Web+Apps;Architecting+AI+Copilots+%26+University+ERPs;Dockerizing+MERN+Apps+%26+Cloud+Deployments;Clean+Code+%E2%80%A2+Scalable+APIs+%E2%80%A2+Real-World+Impact" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -34,7 +34,7 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="340" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Developer Working GIF" />
+<img align="right" width="340" src="https://raw.githubusercontent.com/platane/snk/master/favicon.png" alt="Developer Tech" />
 
 I am a **Software Engineering student at PUCIT Lahore** and a **Full-Stack Developer** passionate about building real-world, scalable, and resilient software systems.
 
@@ -229,9 +229,6 @@ An asynchronous real-time weather analytics application providing live atmospher
 </a>
 
 <br/><br/>
-
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12,20,24,30&section=footer" alt="Footer Banner" />
 
 ### ⚡ Build. Learn. Ship. Repeat.
 
