@@ -5,8 +5,10 @@
 
 <br/>
 
-<!-- 100% Reliable Glowing Animated Live Typing Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+Production-Ready+Full-Stack+Web+Apps;Architecting+AI+Copilots+%26+University+ERPs;Dockerizing+MERN+Apps+%26+Cloud+Deployments;Clean+Code+%E2%80%A2+Scalable+APIs+%E2%80%A2+Real-World+Impact" alt="Typing SVG" />
+<!-- 🔥 100% Reliable Animated Typing SVG (Works on every browser & GitHub app) -->
+<a href="https://portfolio-qasimali.vercel.app">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=850&lines=Building+Production-Ready+Full-Stack+Web+Apps;Architecting+AI+Copilots+%26+University+ERPs;Dockerizing+MERN+Apps+%26+Cloud+Deployments;Clean+Code+%E2%80%A2+Scalable+APIs+%E2%80%A2+Real-World+Impact" alt="Typing Animation" />
+</a>
 
 <br/><br/>
 
@@ -26,15 +28,13 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=QasimAli13&style=for-the-badge&color=0ea5e9" alt="Profile Views" />
-
 </div>
 
 ---
 
 # 👨‍💻 About Me
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/platane/snk/master/favicon.png" alt="Developer Tech" />
+<img align="right" width="320" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/coder.gif" alt="Developer Coding Animation" />
 
 I am a **Software Engineering student at PUCIT Lahore** and a **Full-Stack Developer** passionate about building real-world, scalable, and resilient software systems.
 
@@ -53,28 +53,28 @@ Currently expanding into **Docker containerization, CI/CD automation, and Cloud/
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 <img src="https://skillicons.dev/icons?i=js,cpp,c,bash&theme=dark" alt="Languages" />
 
-### Frontend
+### 🌐 Frontend
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" alt="Frontend" />
 
-### Backend & Databases
+### ⚙️ Backend & Databases
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend" />
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,vercel&theme=dark" alt="Tools" />
+### 🚀 DevOps, Tools & Cloud
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,vercel,netlify&theme=dark" alt="DevOps and Tools" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
 <img src="https://img.shields.io/badge/MongoDB_Atlas-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas" />
 <img src="https://img.shields.io/badge/OpenRouter_AI-6366F1?style=for-the-badge&logo=openai&logoColor=white" alt="OpenRouter AI" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 
 </div>
 
@@ -82,8 +82,8 @@ Currently expanding into **Docker containerization, CI/CD automation, and Cloud/
 
 <div align="center">
 
-### 💭 Philosophy
-> *"Simplicity is a prerequisite for reliability. Build with intent, architect with precision."*
+### 💡 Core Engineering Principle
+> *"Simplicity is a prerequisite for reliability — architect with precision, build with intent."*
 
 </div>
 
@@ -95,9 +95,9 @@ Currently expanding into **Docker containerization, CI/CD automation, and Cloud/
 
 An enterprise-grade university management platform featuring Role-Based Access Control (**RBAC**) and an integrated LLM study assistant for automated academic workflows.
 
-* 👥 **Role-Based Workflows:** Distinct portals and permissions for Administrators, Faculty, and Students.
-* 🤖 **AI Study Copilot:** Academic assistance via OpenRouter API with automated retry fallbacks and formatted Markdown outputs.
-* 📊 **Analytics Dashboard:** Visual performance tracking and grade insights powered by Recharts.
+* 👥 **RBAC Architecture:** Specialized dashboards for Administrators, Faculty, and Students.
+* 🤖 **AI Academic Copilot:** Study assistant via OpenRouter API with automated retry fallbacks and formatted Markdown outputs.
+* 📊 **Analytics Dashboard:** Visual performance tracking and grade metrics powered by Recharts.
 * 🔐 **Security & Deployment:** Stateless JWT authentication deployed live across Vercel and Render.
 
 **Tech Stack:** `React 19` • `Vite` • `Node.js` • `Express.js` • `MongoDB Atlas` • `OpenRouter API` • `JWT` • `Recharts`
@@ -115,10 +115,10 @@ An enterprise-grade university management platform featuring Role-Based Access C
 
 ## 💳 PayPulse — Modern Digital Banking Platform
 
-A full-stack FinTech application simulating real-world digital banking operations, secure money transfers, and automated PDF document generation.
+A full-stack FinTech web application simulating real-world digital banking operations, secure money transfers, and automated PDF document generation.
 
-* 💳 **Peer-to-Peer Transfers:** Real-time money transfers with account balance verification.
-* 💰 **Locked Savings Vaults:** Goal-oriented savings tracking with visual progress metrics.
+* 💳 **Peer-to-Peer Transfers:** Real-time money transfers with balance validation and searchable ledgers.
+* 💰 **Locked Savings Vaults:** Goal-oriented savings tracking with visual progress indicators.
 * 🔳 **QR Ecosystem:** Personal QR code generation and camera-based scanning for quick payments.
 * 📄 **Document Generation:** Automated client-side PDF statements and transaction receipts via jsPDF.
 
@@ -193,10 +193,6 @@ An asynchronous real-time weather analytics application providing live atmospher
 <br/><br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=QasimAli13&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=QasimAli13&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
