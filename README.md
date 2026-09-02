@@ -171,10 +171,6 @@ A full-stack AI-powered developer tool designed to analyze runtime crash logs an
 - 🔍 Intelligent stack trace interpretation
 - 💡 Actionable error resolution and fix suggestions
 - 🧠 AI-assisted debugging workflow
-- 🎯 Complete bug lifecycle management
-- 🏷️ Severity and priority assignment with custom tagging
-- 👥 Role-based user assignments and ticket tracking
-- 📈 Visual dashboard metrics for bugs and resolution progress
 - 🔎 Multi-parameter filtering, search, and activity history
 - ⚡ Full-stack production deployment
 
