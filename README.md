@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,50:0b1535,100:111827&text=QASIM%20ALI&fontSize=62&fontColor=67e8f9&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20MERN%20Developer&descAlignY=61&descSize=17&descColor=c4b5fd" alt="Qasim Ali futuristic profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,35:0f172a,70:172554,100:312e81&text=QASIM%20ALI&fontSize=68&fontColor=67e8f9&fontAlignY=36&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20STUDENT%20%7C%20FULL-STACK%20MERN%20DEVELOPER&descAlignY=59&descSize=16&descColor=e0e7ff" alt="Qasim Ali futuristic neon banner"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=1200&color=67E8F9&center=true&vCenter=true&width=900&height=55&lines=I+build+scalable+digital+experiences;Full-Stack+MERN+Developer;AI+%26+Backend+Engineering+Enthusiast;Turning+ideas+into+production-ready+software;Always+learning.+Always+shipping." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=1300&color=67E8F9&center=true&vCenter=true&width=900&height=55&lines=Building+systems%2C+not+just+interfaces;Full-Stack+MERN+Developer;AI+%26+Backend+Engineering+Enthusiast;Future+Cloud+%26+DevOps+Engineer;Ideas+in.+Production-ready+software+out." alt="Animated developer introduction"/>
 
 <br><br>
 
 <a href="https://portfolio-qasimali.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-0b1020?style=for-the-badge&logo=vercel&logoColor=67e8f9&labelColor=0b1020" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-020617?style=for-the-badge&logo=vercel&logoColor=67e8f9" alt="Portfolio"/>
 </a>
 <a href="mailto:qa44512226@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0b1020?style=for-the-badge&logo=gmail&logoColor=fda4af&labelColor=0b1020" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=fda4af" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/qasim-ali-18b485330">
-<img src="https://img.shields.io/badge/LINKEDIN-0b1020?style=for-the-badge&logo=linkedin&logoColor=60a5fa&labelColor=0b1020" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=60a5fa" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/QasimAli13">
-<img src="https://img.shields.io/badge/GITHUB-0b1020?style=for-the-badge&logo=github&logoColor=e5e7eb&labelColor=0b1020" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=e5e7eb" alt="GitHub"/>
 </a>
 
 <br><br>
@@ -31,171 +31,176 @@
 
 <div align="center">
 
-## `> whoami`
-
-### Building useful software at the intersection of **web**, **AI**, and **backend systems**
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### About Me
-
-I'm **Qasim Ali**, a Software Engineering student at **PUCIT** and a full-stack developer focused on building practical, scalable, and user-centered products.
-
-My main playground is the **MERN stack**, where I design responsive frontends, robust REST APIs, secure authentication systems, and reliable data workflows.
-
-Currently, I'm expanding into **AI engineering, Docker, AWS, system architecture, and DevOps**.
-
-</td>
-<td width="45%" valign="top">
-
-### Current Mission
-
 ```txt
- Build production-ready applications[1]
- Engineer clean backend systems[3]
- Integrate AI into useful products[4]
- Learn cloud and DevOps workflows[5]
- Collaborate, contribute, and ship[2]
+╭──────────────────────────────────────────────────────────────╮
+│  SYSTEM STATUS: ONLINE                                       │
+│  USER: QASIM ALI                                             │
+│  ROLE: FULL-STACK ENGINEER                                  │
+│  MODE: BUILDING THE FUTURE                                  │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
-</td>
-</tr>
-</table>
+</div>
 
----
+## `01 / About Me`
 
-## `> tech_stack`
+<p align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="390" alt="Developer working on a futuristic coding setup"/>
+</p>
+
+I'm **Qasim Ali**, a Software Engineering student at **PUCIT** and a full-stack developer who enjoys transforming ideas into reliable, polished, and useful software products.
+
+My core focus is the **MERN stack**, backend architecture, REST APIs, authentication, database design, and responsive interfaces. I also enjoy exploring how AI can be integrated into practical products rather than being used only as a visual gimmick.
+
+Currently, I'm moving deeper into **AI engineering, Docker, AWS, system design, CI/CD, and DevOps workflows**.
 
 <div align="center">
 
-### Languages
+### `I build with intention.`
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js&theme=dark" alt="C, C++, and JavaScript"/>
-
-### Frontend Engineering
-
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&theme=dark" alt="HTML, CSS, React, Vite, and Tailwind CSS"/>
-
-### Backend & Data
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js, Express.js, and MongoDB"/>
-
-### Tools, Cloud & Workflow
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,figma,vercel&theme=dark" alt="Docker, Git, GitHub, Linux, Postman, VS Code, Figma, and Vercel"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/OpenRouter_AI-6366f1?style=flat-square&logo=openai&logoColor=white" alt="OpenRouter AI"/>
-<img src="https://img.shields.io/badge/MongoDB_Atlas-13aa52?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB Atlas"/>
-<img src="https://img.shields.io/badge/Render-46e3b7?style=flat-square&logo=render&logoColor=black" alt="Render"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+```txt
+clean architecture  -   useful interfaces  -   reliable systems
+```
 
 </div>
 
----
+## `02 / Developer Identity`
 
-<div align="center">
+```yaml
+name: Qasim Ali
+location: Lahore, Pakistan
+education: Software Engineering @ PUCIT
+primary_stack: MERN
+specialization:
+  - Full-stack web applications
+  - RESTful backend systems
+  - AI-powered workflows
+  - Responsive UI engineering
+currently_learning:
+  - Docker and Docker Compose
+  - AWS fundamentals
+  - CI/CD with GitHub Actions
+  - Backend scalability
+open_to:
+  - Software Engineering internships
+  - Collaborative projects
+  - Open-source contribution
+```
 
-## `> selected_work`
+## `03 / Core Arsenal`
 
-</div>
+<p align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,vite,tailwind,nodejs,express,mongodb,docker,git,github,linux,postman,vscode,figma,vercel&theme=dark" alt="Qasim Ali technology stack"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MERN_STACK-67e8f9?style=for-the-badge&labelColor=020617&color=0e7490" alt="MERN Stack"/>
+<img src="https://img.shields.io/badge/AI_WORKFLOWS-c4b5fd?style=for-the-badge&labelColor=020617&color=6d28d9" alt="AI Workflows"/>
+<img src="https://img.shields.io/badge/REST_APIs-fda4af?style=for-the-badge&labelColor=020617&color=be123c" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/CLOUD%20%26%20DEVOPS-86efac?style=for-the-badge&labelColor=020617&color=15803d" alt="Cloud and DevOps"/>
+
+</p>
+
+## `04 / Selected Work`
 
 ### 🎓 CampusHub AI
 
-**Smart University ERP & Academic Copilot**
+#### Smart University ERP & Academic Copilot
 
-A full-stack university management platform combining academic workflows, analytics, role-based access, and AI-powered assistance.
+A comprehensive university management platform that combines academic workflows, analytics, role-based access control, and AI-powered assistance in one production-oriented system.
 
-**Core systems**
+**What makes it interesting**
 
 - Role-based dashboards for admins, faculty, and students.
-- JWT authentication with Axios interceptors.
-- AI-generated quizzes and academic assistance.
-- Student performance analytics with Recharts.
-- Structured Markdown and table rendering.
-- Vercel frontend with Render backend.
+- JWT authentication with Axios request interceptors.
+- OpenRouter-powered academic copilot.
+- Structured quiz generation and Markdown rendering.
+- Real-time performance analytics with Recharts.
+- Frontend deployed on Vercel and backend on Render.
 
-<a href="https://campus-hub-ai.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-67e8f9?style=for-the-badge&logo=vercel&logoColor=07111f" alt="CampusHub AI live demo"/>
-</a>
-<a href="https://github.com/QasimAli13/CampusHub-AI">
-<img src="https://img.shields.io/badge/SOURCE_CODE-c4b5fd?style=for-the-badge&logo=github&logoColor=07111f" alt="CampusHub AI source code"/>
-</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb&theme=dark" alt="CampusHub AI technology stack"/>
+</p>
 
-</td>
-<td width="50%" valign="top">
+<p align="center">
+  <a href="https://campus-hub-ai.vercel.app/">
+    <img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-67e8f9?style=for-the-badge&logo=vercel&logoColor=020617" alt="Open CampusHub AI live demo"/>
+  </a>
+  <a href="https://github.com/QasimAli13/CampusHub-AI">
+    <img src="https://img.shields.io/badge/VIEW_SOURCE-c4b5fd?style=for-the-badge&logo=github&logoColor=020617" alt="View CampusHub AI source code"/>
+  </a>
+</p>
+
+---
 
 ### 💳 PayPulse
 
-**Modern Digital Banking Platform**
+#### Modern Digital Banking Platform
 
-A MERN application simulating real-world banking workflows, from peer-to-peer transfers to savings goals and downloadable financial documents.
+A full-stack digital banking experience designed to simulate real-world financial workflows, including authentication, money transfers, savings management, QR payments, and account documentation.
 
-**Core systems**
+**What makes it interesting**
 
 - Email verification and password recovery.
-- Secure balance-validated money transfers.
-- QR code generation and camera scanning.
-- Transaction search and category filtering.
-- Locked savings vaults and goal tracking.
-- PDF receipts and account statements.
+- Balance-validated peer-to-peer transfers.
+- QR generation and camera-based scanning.
+- Searchable and filterable transaction history.
+- Locked savings vaults with progress tracking.
+- PDF transaction receipts and monthly statements.
 
-<a href="https://pay-pulse-three.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-67e8f9?style=for-the-badge&logo=vercel&logoColor=07111f" alt="PayPulse live demo"/>
-</a>
-<a href="https://github.com/QasimAli13/PayPulse">
-<img src="https://img.shields.io/badge/SOURCE_CODE-c4b5fd?style=for-the-badge&logo=github&logoColor=07111f" alt="PayPulse source code"/>
-</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" alt="PayPulse technology stack"/>
+</p>
 
-</td>
-</tr>
+<p align="center">
+  <a href="https://pay-pulse-three.vercel.app/">
+    <img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-67e8f9?style=for-the-badge&logo=vercel&logoColor=020617" alt="Open PayPulse live demo"/>
+  </a>
+  <a href="https://github.com/QasimAli13/PayPulse">
+    <img src="https://img.shields.io/badge/VIEW_SOURCE-c4b5fd?style=for-the-badge&logo=github&logoColor=020617" alt="View PayPulse source code"/>
+  </a>
+</p>
 
-<tr>
-<td width="50%" valign="top">
+---
 
 ### 🐞 BugTracker AI
 
-**Intelligent Crash Log & Error Resolution Hub**
+#### Intelligent Crash Log & Error Resolution Hub
 
-An AI-assisted developer platform that helps teams analyze runtime errors, organize bugs, and manage the complete issue lifecycle.
+An AI-assisted developer platform that helps teams analyze runtime errors, understand stack traces, organize issues, and manage the complete bug lifecycle.
 
-**Core systems**
+**What makes it interesting**
 
-- AI-powered stack trace analysis.
-- Actionable debugging suggestions.
-- Bug severity, priority, and tagging.
-- Role-based assignments and ticket tracking.
-- Dashboard analytics and progress metrics.
-- Search, filtering, and activity history.
+- AI-assisted runtime crash analysis.
+- Intelligent stack trace interpretation.
+- Actionable resolution suggestions.
+- Severity, priority, tagging, and assignments.
+- Dashboard metrics for resolution progress.
+- Search, filtering, activity history, and ticket tracking.
 
-<a href="https://bugtracker-ai.netlify.app/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-67e8f9?style=for-the-badge&logo=netlify&logoColor=07111f" alt="BugTracker AI live demo"/>
-</a>
-<a href="https://github.com/QasimAli13/BugTracker">
-<img src="https://img.shields.io/badge/SOURCE_CODE-c4b5fd?style=for-the-badge&logo=github&logoColor=07111f" alt="BugTracker AI source code"/>
-</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind&theme=dark" alt="BugTracker AI technology stack"/>
+</p>
 
-</td>
-<td width="50%" valign="top">
+<p align="center">
+  <a href="https://bugtracker-ai.netlify.app/">
+    <img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-67e8f9?style=for-the-badge&logo=netlify&logoColor=020617" alt="Open BugTracker AI live demo"/>
+  </a>
+  <a href="https://github.com/QasimAli13/BugTracker">
+    <img src="https://img.shields.io/badge/VIEW_SOURCE-c4b5fd?style=for-the-badge&logo=github&logoColor=020617" alt="View BugTracker AI source code"/>
+  </a>
+</p>
+
+---
 
 ### 🌦 WeatherTrack
 
-**Real-Time Weather Intelligence Dashboard**
+#### Real-Time Weather Intelligence Dashboard
 
-A responsive weather application built around live location detection, forecast exploration, and persistent user preferences.
+A responsive weather dashboard focused on location-aware forecasts, detailed atmospheric metrics, and persistent user preferences.
 
-**Core systems**
+**What makes it interesting**
 
 - Browser geolocation detection.
 - Current, hourly, and seven-day forecasts.
@@ -204,133 +209,95 @@ A responsive weather application built around live location detection, forecast 
 - Favorite cities and search history.
 - Sunrise and sunset calculations.
 
-<a href="https://weather-app-inky-delta-38.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-67e8f9?style=for-the-badge&logo=vercel&logoColor=07111f" alt="WeatherTrack live demo"/>
-</a>
-<a href="https://github.com/QasimAli13/WeatherApp">
-<img src="https://img.shields.io/badge/SOURCE_CODE-c4b5fd?style=for-the-badge&logo=github&logoColor=07111f" alt="WeatherTrack source code"/>
-</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="WeatherTrack technology stack"/>
+</p>
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://weather-app-inky-delta-38.vercel.app/">
+    <img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-67e8f9?style=for-the-badge&logo=vercel&logoColor=020617" alt="Open WeatherTrack live demo"/>
+  </a>
+  <a href="https://github.com/QasimAli13/WeatherApp">
+    <img src="https://img.shields.io/badge/VIEW_SOURCE-c4b5fd?style=for-the-badge&logo=github&logoColor=020617" alt="View WeatherTrack source code"/>
+  </a>
+</p>
 
----
+## `05 / Engineering Principles`
 
 <div align="center">
-
-## `> engineering_philosophy`
-
-<table>
-<tr>
-<td>
 
 ```txt
-Good software is not only about making things work.
-
-It is about creating systems that are:
-clear to understand,
-safe to change,
-pleasant to use,
-and reliable in production.
+Make it work.
+Make it clear.
+Make it reliable.
+Make it better.
 ```
 
-</td>
-</tr>
-</table>
-
 </div>
 
----
+- Build interfaces that feel simple even when the underlying system is complex.
+- Prefer maintainable architecture over clever but fragile code.
+- Treat validation, error handling, and security as core features.
+- Design for real users, real data, and real deployment environments.
+- Keep learning through experimentation and shipping.
 
-## `> current_focus`
+## `06 / Current Mission`
 
-<table>
-<tr>
-<td width="25%" align="center">
+- 🚀 Ship more production-ready full-stack applications.
+- 🧠 Build practical AI-powered developer and productivity tools.
+- 🐳 Master Docker, Docker Compose, and containerized deployments.
+- ☁️ Strengthen AWS and cloud infrastructure fundamentals.
+- ⚙️ Build automated CI/CD workflows with GitHub Actions.
+- 🏗️ Improve backend scalability and system design skills.
+- 🤝 Contribute to open-source projects.
+- 💼 Secure a Software Engineering internship.
 
-### 🧠 AI
+## `07 / GitHub Telemetry`
 
-Practical AI workflows, structured outputs, and developer tools.
+<p align="center">
 
-</td>
-<td width="25%" align="center">
-
-### 🏗 Backend
-
-Scalable REST APIs, authentication, validation, and clean architecture.
-
-</td>
-<td width="25%" align="center">
-
-### ☁️ Cloud
-
-AWS fundamentals, deployment strategies, and infrastructure basics.
-
-</td>
-<td width="25%" align="center">
-
-### ⚙️ DevOps
-
-Docker, CI/CD pipelines, GitHub Actions, and automation.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `> github_metrics`
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=QasimAli13&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&bg_color=0b1020&title_color=67e8f9&icon_color=c4b5fd&text_color=e5e7eb&cache_seconds=86400" alt="Qasim Ali GitHub statistics"/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QasimAli13&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0b1020&title_color=67e8f9&text_color=e5e7eb&cache_seconds=86400" alt="Qasim Ali most used programming languages"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=QasimAli13&bg_color=020617&color=67e8f9&line=c4b5fd&point=fda4af&area=true&hide_border=true" alt="Qasim Ali GitHub activity graph"/>
 
 <br><br>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=QasimAli13&theme=tokyonight&hide_border=true&background=0b1020&ring=67e8f9&fire=fda4af&currStreakLabel=67e8f9" alt="Qasim Ali GitHub contribution streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=QasimAli13&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=020617&title_color=67e8f9&icon_color=c4b5fd&text_color=e0e7ff&cache_seconds=86400" alt="Qasim Ali GitHub statistics"/>
 
 <br><br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=QasimAli13&bg_color=0b1020&color=67e8f9&line=c4b5fd&point=fda4af&area=true&hide_border=true" alt="Qasim Ali GitHub activity graph"/>
+<img src="https://streak-stats.demolab.com?user=QasimAli13&theme=tokyonight&hide_border=true&background=020617&ring=67e8f9&fire=fda4af&currStreakLabel=67e8f9" alt="Qasim Ali GitHub contribution streak"/>
 
-</div>
+<br><br>
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=QasimAli13&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="Qasim Ali GitHub trophies"/>
 
-## `> 2026_objectives`
+</p>
 
-- Ship more production-ready full-stack applications.
-- Build stronger backend and system design fundamentals.
-- Master Docker, AWS foundations, and CI/CD workflows.
-- Explore real-time applications with sockets.
-- Contribute to meaningful open-source projects.
-- Secure a Software Engineering internship.
-
----
+## `08 / Connect`
 
 <div align="center">
 
-## `> establish_connection`
+If you're building something meaningful, learning in public, or looking for a reliable developer to collaborate with — let's connect.
+
+<br><br>
 
 <a href="mailto:qa44512226@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-67e8f9?style=for-the-badge&logo=gmail&logoColor=07111f" alt="Send Qasim Ali an email"/>
+<img src="https://img.shields.io/badge/SEND_EMAIL-67e8f9?style=for-the-badge&logo=gmail&logoColor=020617" alt="Send Qasim Ali an email"/>
 </a>
 <a href="https://www.linkedin.com/in/qasim-ali-18b485330">
-<img src="https://img.shields.io/badge/LINKEDIN-c4b5fd?style=for-the-badge&logo=linkedin&logoColor=07111f" alt="Qasim Ali on LinkedIn"/>
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-c4b5fd?style=for-the-badge&logo=linkedin&logoColor=020617" alt="Connect with Qasim Ali on LinkedIn"/>
 </a>
 <a href="https://portfolio-qasimali.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-fda4af?style=for-the-badge&logo=vercel&logoColor=07111f" alt="Qasim Ali portfolio"/>
+<img src="https://img.shields.io/badge/ENTER_PORTFOLIO-fda4af?style=for-the-badge&logo=vercel&logoColor=020617" alt="Visit Qasim Ali portfolio"/>
 </a>
 
 <br><br>
 
 ```txt
-Build. Learn. Improve. Repeat.
+┌──────────────────────────────────────────────┐
+│  BUILD. LEARN. IMPROVE. REPEAT.              │
+└──────────────────────────────────────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:111827,50:0b1535,100:050816&section=footer" alt="Futuristic footer decoration"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:312e81,50:172554,100:020617&section=footer" alt="Futuristic neon footer"/>
 
 </div>
