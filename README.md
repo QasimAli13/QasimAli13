@@ -1,6 +1,7 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=280&color=gradient&customColorList=12,25,20,30,24&text=Qasim%20Ali&fontSize=60&fontColor=E2E8F0&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%C2%B7%20MERN%20Stack%20Developer&descAlignY=58&descAlign=50" alt="Qasim Ali — animated aurora gradient hero banner"/>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&height=35&lines=Engineering+full-stack+products+that+ship;MERN+%2B+AI-integrated+web+systems;Currently+leveling+up+in+Cloud+%26+DevOps" alt="Rotating professional tagline: full-stack MERN and AI-integrated engineering, currently expanding into cloud and DevOps"/>
 
@@ -12,7 +13,7 @@
 <a href="https://www.linkedin.com/in/qasim-ali-18b485330"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/></a>
 <a href="https://github.com/QasimAli13"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/></a>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=QasimAli13&style=for-the-badge&color=0F172A&label=PROFILE+VIEWS" alt="Profile view counter"/>
 
