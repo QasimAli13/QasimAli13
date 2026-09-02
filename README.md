@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&height=35&lines=Engineering+full-stack+products+that+ship;MERN+%2B+AI-integrated+web+systems;Currently+leveling+up+in+Cloud+%26+DevOps" alt="Rotating professional tagline: full-stack MERN and AI-integrated engineering, currently expanding into cloud and DevOps"/>
 
 <br>
+<br>
 
 <a href="https://portfolio-qasimali.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio"/></a>
 <a href="mailto:qa44512226@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"/></a>
