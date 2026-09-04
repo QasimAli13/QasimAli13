@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=25&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&height=55&lines=Building+Production-Ready+Software;Full-Stack+MERN+Developer;Turning+AI+Into+Useful+Software;Exploring+Cloud+%26+DevOps;Always+Building.+Always+Learning."/>
 
-<br/>
+<br/><br/>
 
 <a href="https://portfolio-qasimali.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -117,7 +117,7 @@ I'm now expanding my understanding beyond application development and exploring 
 
 </div>
 
-<br/>
+
 
 ## 🎓 CampusHub AI
 
@@ -159,7 +159,7 @@ A comprehensive University ERP platform designed to bring **academic management,
 
 ---
 
-<br/>
+
 
 ## 💳 PayPulse
 
@@ -201,7 +201,7 @@ A feature-rich full-stack digital banking application designed to simulate pract
 
 ---
 
-<br/>
+
 
 ## 🐞 BugTracker AI
 
@@ -242,7 +242,6 @@ An AI-powered developer tool designed to help developers understand runtime fail
 
 ---
 
-<br/>
 
 ## 🌦️ WeatherTrack
 
@@ -350,13 +349,6 @@ A responsive weather application designed to provide detailed atmospheric inform
 
 </div>
 
----
- <div>
-> *The goal isn't to learn every technology. It's to understand how useful software is designed, built, and continuously improved.*
-
-</div>
-
----
 
 # 🎯 The Road Ahead
 
