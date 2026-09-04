@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=25&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&height=55&lines=Building+Production-Ready+Software;Full-Stack+MERN+Developer;Turning+AI+Into+Useful+Software;Exploring+Cloud+%26+DevOps;Always+Building.+Always+Learning."/>
 
-<br/><br/>
+<br/>
 
 <a href="https://portfolio-qasimali.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=QasimAli13&style=flat-square&color=0891B2&label=PROFILE+VIEWS"/>
 
@@ -77,25 +77,25 @@ I'm now expanding my understanding beyond application development and exploring 
 
 <img src="https://skillicons.dev/icons?i=c,cpp,js&theme=dark"/>
 
-<br/><br/>
+<br/>
 
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark"/>
 
-<br/><br/>
+<br/>
 
 ### Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
 
-<br/><br/>
+<br/>
 
 ### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,figma,vercel&theme=dark"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=46E3B7"/>
 <img src="https://img.shields.io/badge/MongoDB_Atlas-111827?style=for-the-badge&logo=mongodb&logoColor=13AA52"/>
@@ -145,7 +145,7 @@ A comprehensive University ERP platform designed to bring **academic management,
 
 <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb&theme=dark"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://campus-hub-ai.vercel.app/">
 <img src="https://img.shields.io/badge/Explore_Live-22D3EE?style=for-the-badge&logo=vercel&logoColor=black"/>
@@ -155,7 +155,7 @@ A comprehensive University ERP platform designed to bring **academic management,
 <img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
 ---
 
@@ -187,7 +187,7 @@ A feature-rich full-stack digital banking application designed to simulate pract
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://pay-pulse-three.vercel.app/">
 <img src="https://img.shields.io/badge/Explore_Live-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -197,7 +197,7 @@ A feature-rich full-stack digital banking application designed to simulate pract
 <img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
 ---
 
@@ -228,7 +228,7 @@ An AI-powered developer tool designed to help developers understand runtime fail
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind&theme=dark"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://bugtracker-ai.netlify.app/">
 <img src="https://img.shields.io/badge/Explore_Live-F59E0B?style=for-the-badge&logo=netlify&logoColor=black"/>
@@ -238,7 +238,7 @@ An AI-powered developer tool designed to help developers understand runtime fail
 <img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
 ---
 
@@ -269,7 +269,7 @@ A responsive weather application designed to provide detailed atmospheric inform
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://weather-app-inky-delta-38.vercel.app/">
 <img src="https://img.shields.io/badge/Explore_Live-38BDF8?style=for-the-badge&logo=vercel&logoColor=black"/>
@@ -310,7 +310,7 @@ A responsive weather application designed to provide detailed atmospheric inform
 
 ### 🤖 AI-Powered Applications
 
-**AI Integration · OpenRouter · Intelligent Software Workflows**
+**AI Integration · Intelligent Software Workflows**
 
 ↓
 
@@ -351,21 +351,7 @@ A responsive weather application designed to provide detailed atmospheric inform
 </div>
 
 ---
-
-# 🧠 How I Approach Engineering
-
-<div align="center">
-
-### 💡 Learn by building.
-
-### 🔍 Understand the problem before solving it.
-
-### 🏗️ Think beyond the code.
-
-### 🔄 Improve with every iteration.
-
-<br/>
-
+ <div>
 > *The goal isn't to learn every technology. It's to understand how useful software is designed, built, and continuously improved.*
 
 </div>
