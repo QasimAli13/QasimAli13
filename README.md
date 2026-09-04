@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Qasim%20Ali&fontSize=70&fontColor=22D3EE&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20MERN%20Stack%20Developer%20%7C%20AI%20%26%20Backend%20Enthusiast&descAlignY=58&descSize=28"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=QASIM%20ALI&fontSize=75&fontColor=22D3EE&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20MERN%20Stack%20Developer%20%7C%20AI%20%26%20Backend%20Enthusiast&descAlignY=58&descSize=26"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=800&height=55&lines=Building+Production-Ready+Software+%F0%9F%9A%80;Architecting+Scalable+Backend+Systems+%E2%9A%A1;Integrating+AI+into+Real-World+Products+%F0%9F%A4%96;Exploring+Cloud+%26+DevOps+Engineering+%E2%98%81%EF%B8%8F;Always+Learning+Something+New+%F0%9F%93%9A"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=750&height=50&lines=Building+Production-Ready+Software+%F0%9F%9A%80;Architecting+Scalable+Backend+Systems+%E2%9A%A1;Integrating+AI+into+Real-World+Products+%F0%9F%A4%96;Exploring+Cloud+%26+DevOps+Engineering+%E2%98%81%EF%B8%8F;Always+Learning+Something+New+%F0%9F%93%9A"/>
 
 <br><br>
 
@@ -12,22 +12,22 @@
   <tr>
     <td align="center">
       <a href="https://portfolio-qasimali.vercel.app">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0ea5e9" alt="Portfolio"/>
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
       </a>
     </td>
     <td align="center">
       <a href="mailto:qa44512226@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0ea5e9" alt="Gmail"/>
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
       </a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/qasim-ali-18b485330">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0ea5e9" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/QasimAli13">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0ea5e9" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
       </a>
     </td>
   </tr>
@@ -39,7 +39,7 @@
 
 <br><br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon Divider"/>
 
 </div>
 
@@ -47,13 +47,11 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26xkZaVnhGv6/giphy.gif" width="120" alt="Coding Animation"/>
+<img src="https://media.giphy.com/media/L1R1TVThqejS8/giphy.gif" width="150" alt="Developer Working"/>
 
 </div>
 
-I'm **Qasim Ali**, a **Software Engineering student at PUCIT** with a passion for engineering **scalable, production-ready software systems**. My journey spans **full-stack MERN development**, architecting **robust RESTful backends**, and integrating **AI-powered workflows** into real-world applications.
-
-I focus on **clean architecture**, **reliable data handling**, **interactive user interfaces**, and **deployment-ready code**. Currently expanding my expertise into **Cloud Architecture, Docker, and DevOps Engineering** to build end-to-end scalable solutions.
+I'm **Qasim Ali**, a **Software Engineering student at PUCIT** passionate about engineering **scalable, production-ready software systems**. My expertise spans **full-stack MERN development**, designing **resilient backend architectures**, and integrating **AI-powered workflows** into real-world applications.
 
 ### 🎯 Currently Focused On
 
@@ -62,13 +60,15 @@ I focus on **clean architecture**, **reliable data handling**, **interactive use
 | 🚀 | 💻 | 🤖 | 🐳 | ☁️ | ⚙️ | 🤝 |
 |---|---|---|---|---|---|---|
 | **Full-Stack MERN** | **Backend Systems** | **AI Integration** | **Docker** | **AWS Cloud** | **CI/CD** | **Open to Work** |
-| Building production-ready apps | RESTful APIs & microservices | OpenRouter AI workflows | Containerization | Cloud fundamentals | DevOps workflows | Internships & projects |
+| Production apps | RESTful APIs | OpenRouter AI | Containerization | Cloud fundamentals | DevOps workflows | Internships |
 
 </div>
 
 ### 💭 Development Philosophy
 
 > *"Great software is engineered through architectural precision and consistent improvement."*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon Divider"/>
 
 ---
 
@@ -80,31 +80,23 @@ I focus on **clean architecture**, **reliable data handling**, **interactive use
 
 <table>
   <tr>
-    <td align="center" valign="middle" width="33%">
+    <td align="center" valign="middle" width="50%">
       <b>🎨 Frontend</b><br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" height="45" alt="Frontend"/>
+      <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" height="50" alt="Frontend"/>
     </td>
-    <td align="center" valign="middle" width="33%">
-      <b>⚙️ Backend</b><br><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express" height="45" alt="Backend"/>
-    </td>
-    <td align="center" valign="middle" width="33%">
-      <b>🗄️ Database</b><br><br>
-      <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="Database"/>
+    <td align="center" valign="middle" width="50%">
+      <b>⚙️ Backend & Database</b><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="50" alt="Backend"/>
     </td>
   </tr>
   <tr>
     <td align="center" valign="middle">
       <b>💻 Languages</b><br><br>
-      <img src="https://skillicons.dev/icons?i=c,cpp,js" height="45" alt="Languages"/>
+      <img src="https://skillicons.dev/icons?i=c,cpp,js" height="50" alt="Languages"/>
     </td>
     <td align="center" valign="middle">
-      <b>☁️ DevOps & Cloud</b><br><br>
-      <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,render" height="45" alt="DevOps"/>
-    </td>
-    <td align="center" valign="middle">
-      <b>🛠️ Tools</b><br><br>
-      <img src="https://skillicons.dev/icons?i=postman,vscode,figma" height="45" alt="Tools"/>
+      <b>🛠️ Tools & Platforms</b><br><br>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,figma,vercel,render" height="50" alt="Tools"/>
     </td>
   </tr>
 </table>
@@ -116,11 +108,13 @@ I focus on **clean architecture**, **reliable data handling**, **interactive use
 
 <br><br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon Divider"/>
 
 </div>
 
 ## 🚀 Featured Projects
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon Divider"/>
 
 ---
 
@@ -128,11 +122,7 @@ I focus on **clean architecture**, **reliable data handling**, **interactive use
 
 > **A comprehensive University ERP platform streamlining campus management, academic records, and student analytics, powered by an integrated AI Copilot.**
 
-<div align="right">
-
 **Problem Solved:** Universities need centralized systems for managing student data, academic records, and providing intelligent assistance. CampusHub AI consolidates these workflows into a single, AI-enhanced platform.
-
-</div>
 
 **Key Features:**
 
@@ -162,11 +152,7 @@ I focus on **clean architecture**, **reliable data handling**, **interactive use
 
 > **A full-stack digital banking application simulating real-world banking workflows including authentication, money transfers, savings management, and transaction tracking.**
 
-<div align="right">
-
 **Problem Solved:** Traditional banking interfaces are complex. PayPulse demonstrates secure, user-friendly digital banking with peer-to-peer transfers, savings vaults, and automated documentation.
-
-</div>
 
 **Key Features:**
 
@@ -196,11 +182,7 @@ I focus on **clean architecture**, **reliable data handling**, **interactive use
 
 > **An AI-powered developer tool that analyzes runtime crash logs and stack traces, identifies likely causes, and suggests actionable fixes to accelerate debugging.**
 
-<div align="right">
-
 **Problem Solved:** Developers waste hours deciphering cryptic error messages. BugTracker AI automates error analysis and provides intelligent fix suggestions.
-
-</div>
 
 **Key Features:**
 
@@ -230,11 +212,7 @@ I focus on **clean architecture**, **reliable data handling**, **interactive use
 
 > **A responsive real-time weather application providing detailed atmospheric metrics with automatic location detection, hourly forecasts, and 7-day extended outlooks.**
 
-<div align="right">
-
 **Problem Solved:** Users need quick, accurate weather information with persistent preferences and multi-metric tracking in a clean interface.
-
-</div>
 
 **Key Features:**
 
@@ -257,6 +235,8 @@ I focus on **clean architecture**, **reliable data handling**, **interactive use
 </a>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon Divider"/>
 
 ---
 
@@ -299,7 +279,7 @@ I focus on **clean architecture**, **reliable data handling**, **interactive use
 
 <br><br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon Divider"/>
 
 </div>
 
@@ -310,9 +290,11 @@ I focus on **clean architecture**, **reliable data handling**, **interactive use
 | 🚀 | 🐳 | ☁️ | ⚙️ | 🏗️ | 💼 |
 |---|---|---|---|---|---|
 | **Production Apps** | **Docker Mastery** | **AWS Cloud** | **CI/CD Pipelines** | **Backend Architecture** | **Software Internship** |
-| Build resilient full-stack apps | Multi-stage deployment workflows | Cloud fundamentals & infrastructure | GitHub Actions automation | Scalability & system design | Land SWE internship |
+| Resilient full-stack apps | Multi-stage deployment | Cloud infrastructure | GitHub Actions automation | Scalability & system design | Land SWE internship |
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon Divider"/>
 
 ---
 
@@ -326,22 +308,22 @@ I focus on **clean architecture**, **reliable data handling**, **interactive use
   <tr>
     <td align="center">
       <a href="mailto:qa44512226@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0ea5e9" alt="Gmail"/>
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
       </a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/qasim-ali-18b485330">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0ea5e9" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
     </td>
     <td align="center">
       <a href="https://portfolio-qasimali.vercel.app">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0ea5e9" alt="Portfolio"/>
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/QasimAli13">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0ea5e9" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
       </a>
     </td>
   </tr>
