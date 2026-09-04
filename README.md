@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=QASIM%20ALI&fontSize=75&fontColor=22D3EE&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20MERN%20Stack%20Developer%20%7C%20AI%20%26%20Backend%20Enthusiast&descAlignY=58&descSize=26"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=QASIM%20ALI&fontSize=75&fontColor=22D3EE&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20MERN%20Stack%20Developer%20%7C%20AI%20%26%20Backend%20Enthusiast&descAlignY=58&descSize=26" alt="Header Banner"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=750&height=50&lines=Building+Production-Ready+Software+%F0%9F%9A%80;Architecting+Scalable+Backend+Systems+%E2%9A%A1;Integrating+AI+into+Real-World+Products+%F0%9F%A4%96;Exploring+Cloud+%26+DevOps+Engineering+%E2%98%81%EF%B8%8F;Always+Learning+Something+New+%F0%9F%93%9A"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=750&height=50&lines=Building+Production-Ready+Software+%F0%9F%9A%80;Architecting+Scalable+Backend+Systems+%E2%9A%A1;Integrating+AI+into+Real-World+Products+%F0%9F%A4%96;Exploring+Cloud+%26+DevOps+Engineering+%E2%98%81%EF%B8%8F;Always+Learning+Something+New+%F0%9F%93%9A" alt="Typing Animation"/>
 
 <br><br>
 
@@ -287,10 +287,12 @@ I'm **Qasim Ali**, a **Software Engineering student at PUCIT** passionate about 
 
 <div align="center">
 
-| 🚀 | 🐳 | ☁️ | ⚙️ | 🏗️ | 💼 |
-|---|---|---|---|---|---|
-| **Production Apps** | **Docker Mastery** | **AWS Cloud** | **CI/CD Pipelines** | **Backend Architecture** | **Software Internship** |
-| Resilient full-stack apps | Multi-stage deployment | Cloud infrastructure | GitHub Actions automation | Scalability & system design | Land SWE internship |
+<img src="https://img.shields.io/badge/🚀_Production_Apps-Build%20resilient%20full--stack%20apps-22D3EE?style=for-the-badge" alt="Goal 1"/>
+<img src="https://img.shields.io/badge/🐳_Docker_Mastery-Multi--stage%20deployment%20workflows-6366F1?style=for-the-badge" alt="Goal 2"/>
+<img src="https://img.shields.io/badge/☁️_AWS_Cloud-Cloud%20infrastructure%20%26%20fundamentals-0ea5e9?style=for-the-badge" alt="Goal 3"/>
+<img src="https://img.shields.io/badge/⚙️_CI%2FCD_Pipelines-GitHub%20Actions%20automation-13AA52?style=for-the-badge" alt="Goal 4"/>
+<img src="https://img.shields.io/badge/🏗️_Backend_Architecture-Scalability%20%26%20system%20design-FF6B6B?style=for-the-badge" alt="Goal 5"/>
+<img src="https://img.shields.io/badge/💼_Software_Internship-Land%20SWE%20internship-F59E0B?style=for-the-badge" alt="Goal 6"/>
 
 </div>
 
