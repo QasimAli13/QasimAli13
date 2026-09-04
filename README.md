@@ -55,14 +55,13 @@ I'm **Qasim Ali**, a **Software Engineering student at PUCIT** passionate about 
 
 ### 🎯 Currently Focused On
 
-<div align="center">
-
-| 🚀 | 💻 | 🤖 | 🐳 | ☁️ | ⚙️ | 🤝 |
-|---|---|---|---|---|---|---|
-| **Full-Stack MERN** | **Backend Systems** | **AI Integration** | **Docker** | **AWS Cloud** | **CI/CD** | **Open to Work** |
-| Production apps | RESTful APIs | OpenRouter AI | Containerization | Cloud fundamentals | DevOps workflows | Internships |
-
-</div>
+- 🚀 Architecting full-stack MERN & AI-powered web applications
+- 💻 Designing resilient backend systems & RESTful APIs
+- 🤖 Integrating AI into practical software products
+- 🐳 Containerizing workflows with Docker & Docker Compose
+- ☁️ Exploring AWS cloud fundamentals
+- ⚙️ Learning CI/CD and DevOps workflows
+- 🤝 Open to Software Engineering internships and collaborative projects
 
 ### 💭 Development Philosophy
 
